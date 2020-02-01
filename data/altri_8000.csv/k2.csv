@@ -1,0 +1,313 @@
+A,I,NAME,FIRST NAMES,S,R,O,NATION,NO/m,NO/f,PEOPLE,D,M,Y,ROUTE,NOTE,EXPEDITION,LEADER
+1,1,COMPAGNONI,Achille,,,,It,1,,,31.,07.,1954,SE Ridge (Abruzzi Spur),,Italian,Ardito Desio
+2,2,LACEDELLI,Lino,,,,It,,,,31.,07.,1954,SE Ridge (Abruzzi Spur),,Italian,Ardito Desio
+3,3,NAKAMURA,Shoji,,,,Jp,2,,,08.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+4,4,SHIGEHIRO,Tsuneo,,,,Jp,,,,08.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+5,5,TAKATSUKA,Takayoshi,,,,Jp,,,,08.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+6,6,AMAN,Ashraf,,,,Pak,3,,,09.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+7,7,HIROSHIMA,Mitsuo,,,,Jp,,,,09.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+8,8,ONODERA,Masahide,,,,Jp,,,,09.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+9,9,YAMAMOTO,Hideo,,,,Jp,,,,09.,08.,1977,SE Ridge (Abruzzi Spur),,Japanese,Ichiro Yoshizawa
+10,10,REICHARDT,Louis F.,,,x,USA,4,,,06.,09.,1978,NE Ridge - Abruzzi Spur,,American,Jim Whittaker
+11,11,WICKWIRE,James,,,,USA,,,,06.,09.,1978,NE Ridge - Abruzzi Spur,,American,Jim Whittaker
+12,12,RIDGEWAY,Richard,,,,USA,,,,07.,09.,1978,NE Ridge - Abruzzi Spur,,American,Jim Whittaker
+13,13,ROSKELLEY,John,,,x,USA,,,,07.,09.,1978,NE Ridge - Abruzzi Spur,,American,Jim Whittaker
+14,14,DACHER,Michael,,,x,Ger,5,,,12.,07.,1979,SE Ridge (Abruzzi Spur),,International,Reinhold Messner (It)
+15,15,MESSNER,Reinhold,,,x,It,,,South Tirolean,12.,07.,1979,SE Ridge (Abruzzi Spur),,International,Reinhold Messner (It)
+16,16,OHTANI,Eiho,,,,Jp,,,,07.,08.,1981,West Ridge/SW side,,Japanese,Teruoh Matsuura
+17,17,SABIR,Nazir Ahmad,,,,Pak,,,,07.,08.,1981,West Ridge/SW side,,Japanese,Teruoh Matsuura
+18,18,SAKASHITA,Naoé,,,x,Jp,,,,14.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+19,19,YANAGISAWA,Yukihiro,,,x,Jp,,,,14.,08.,1982,North Ridge,died on descent,Japanese,Isao Shinkai
+20,20,YOSHINO,Hiroshi,,,x,Jp,,,,14.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+21,21,KAMURO,Hironobu,,,x,Jp,,,,15.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+22,22,KAWAMURA,Haruichi,,,x,Jp,,,,15.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+23,23,SHIGENO,Tatsuji,,,x,Jp,,,,15.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+24,24,TAKAMI,Kazushige,,,x,Jp,,,,15.,08.,1982,North Ridge,,Japanese,Isao Shinkai
+25,25,DA POLENZA,Agostino,,,x,It,,,,31.,07.,1983,North Ridge,,Italian,Francesco Santon
+26,26,RAKONCAJ,Josef,,1,x,Cz,6,,,31.,07.,1983,North Ridge,,Italian,Francesco Santon
+27,27,MARTINI,Sergio,,,x,It,,,,04.,08.,1983,North Ridge,,Italian,Francesco Santon
+28,28,DE STEFANI,Fausto,,,x,It,,,,04.,08.,1983,North Ridge,,Italian,Francesco Santon
+29,29,JOOS,Norbert,,,x,CH,7,,,19.,06.,1985,SE Ridge (Abruzzi Spur),,Swiss,Erhard Loretan
+30,30,RUEDI,Marcel,,,x,CH,,,,19.,06.,1985,SE Ridge (Abruzzi Spur),,Swiss,Erhard Loretan
+31,31,LORETAN,Erhard,,,x,CH,,,,06.,07.,1985,SE Ridge (Abruzzi Spur),,Swiss,Erhard Loretan
+32,32,MORAND,Pierre,,,x,CH,,,,06.,07.,1985,SE Ridge (Abruzzi Spur),,Swiss,Erhard Loretan
+33,33,TROILLET,Jean,,,x,CH,,,,06.,07.,1985,SE Ridge (Abruzzi Spur),,Swiss,Erhard Loretan
+34,34,ESCOFFIER,Eric,,,x,F,8,,,06.,07.,1985,SE Ridge (Abruzzi Spur),,French,Daniel Lacroix
+35,35,LACROIX,Daniel,,,x,F,,,,07.,07.,1985,SE Ridge (Abruzzi Spur),died on descent,French,Daniel Lacroix
+36,36,SCHAFFTER,Stephane,,,x,CH,,,,07.,07.,1985,SE Ridge (Abruzzi Spur),,French,Daniel Lacroix
+37,37,MURAKAMI,Kazunari,,,,Jp,,,,24.,07.,1985,SE Ridge (Abruzzi Spur),,Japanese,Kazuoh Tobita
+38,38,YAMADA,Noboru,,,x,Jp,,,,24.,07.,1985,SE Ridge (Abruzzi Spur),,Japanese,Kazuoh Tobita
+39,39,YOSHIDA,Kenji,,,,Jp,,,,24.,07.,1985,SE Ridge (Abruzzi Spur),,Japanese,Kazuoh Tobita
+40,40,RUTKIEWICZ,Wanda,f,,x,Pl,9,1,,23.,06.,1986,SE Ridge (Abruzzi Spur),,French,Maurice Barrard
+41,41,BARRARD,Liliane,f,,x,F,,2,,23.,06.,1986,SE Ridge (Abruzzi Spur),died on descent,French,Maurice Barrard
+42,42,BARRARD,Maurice,,,x,F,,,,23.,06.,1986,SE Ridge (Abruzzi Spur),died on descent,French,Maurice Barrard
+43,43,PARMENTIER,Michel,,,x,F,,,,23.,06.,1986,SE Ridge (Abruzzi Spur),,French,Maurice Barrard
+44,44,ABREGO,Mari,,,x,E,10,,Basque,23.,06.,1986,SE Ridge (Abruzzi Spur),,Spanish Basque,Renato Casarotto (It)
+45,45,CASIMIRO,Josema,,,x,E,,,Basque,23.,06.,1986,SE Ridge (Abruzzi Spur),,Spanish Basque,Renato Casarotto (It)
+46,46,CALCAGNO,Giovanni,,,x,It,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+47,47,CHAMOUX,Benoît,,,x,F,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+48,48,DOROTEI,Soro,,,x,It,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+49,49,MORETTI,Martino,,,x,It,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+50,,RAKONCAJ,Josef,,2,x,Cz,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+51,50 VIDONI,,Tullio,,,x,It,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+52,51 FUSTER,,Beda,,,x,CH,,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,International,Karl Herrligkoffer (Ger)
+
+53,52,ZEMP,Rolf,,x,CH,,,05.,07.,1986,SE Ridge (Abruzzi Spur),,International,Karl Herrligkoffer (Ger)
+54,53,KUKUCZKA,Jerzy,,x,Pl,,,08.,07.,1986,South Face (Central Rib),,International,Karl Herrligkoffer (Ger)
+55,54,PIOTROWSKI,Tadeusz,,x,Pl,,,08.,07.,1986,South Face (Central Rib),died on descent,International,Karl Herrligkoffer (Ger)
+56,55,JANG,Bong-Wan,,,SK,11,,03.,08.,1986,SE Ridge (Abruzzi Spur),,South Korean,Kim Byung-Joon
+57,56,CHANG,Byong-Ho,,,SK,,,03.,08.,1986,SE Ridge (Abruzzi Spur),,South Korean,Kim Byung-Joon
+58,57,KIM,Chang-Sun,,,SK,,,03.,08.,1986,SE Ridge (Abruzzi Spur),,South Korean,Kim Byung-Joon
+59,58,BOŽÍK,Peter,,x,Slk,12,,03.,08.,1986,"SSW Pillar (""Magic Line"")",,Polish,Janusz Majer
+60,59,PIASECKI,Przemyslaw,,x,Pl,,,03.,08.,1986,"SSW Pillar (""Magic Line"")",,Polish,Janusz Majer
+61,60,WRÓŻ,Wojciech,,x,Pl,,,03.,08.,1986,"SSW Pillar (""Magic Line"")",died on descent,Polish,Janusz Majer
+62,61,BAUER,Wilhelm,,x,A,13,,04.,08.,1986,SE Ridge (Abruzzi Spur),,Austrian,Alfred Imitzer
+63,62,IMITZER,Alfred,,x,A,,,04.,08.,1986,SE Ridge (Abruzzi Spur),died on descent,Austrian,Alfred Imitzer
+64,63,ROUSE,Alan,,x,UK,14,English,04.,08.,1986,SE Ridge (Abruzzi Spur),died on descent,British,Alan Rouse
+65,64,DIEMBERGER,Kurt,,x,A,,,04.,08.,1986,SE Ridge (Abruzzi Spur),,International,Agostino Da Polenza (It)
+66,65,TULLIS,Julie,f,x,UK,3,English,04.,08.,1986,SE Ridge (Abruzzi Spur),died on descent,International,Agostino Da Polenza (It)
+67,66,IMAMURA,Hirotaka,,,Jp,,,09.,08.,1990,NW Face - North Ridge/Face,,Japanese,Tomoji Ueki
+68,67,NAZUKA,Hideji,,,Jp,,,09.,08.,1990,NW Face - North Ridge/Face,,Japanese,Tomoji Ueki
+69,68,CHILD,Gregory,,x,Aus,15,,20.,08.,1990,North Ridge,,American,Steve Swenson
+70,69,MORTIMER,Gregory,,x,Aus,,,20.,08.,1990,North Ridge,,American,Steve Swenson
+71,70,SWENSON,Steve,,x,USA,,,20.,08.,1990,North Ridge,,American,Steve Swenson
+72,71,BÉGHIN,Pierre,,x,F,,,15.,08.,1991,NW Ridge - North Ridge,,French,Pierre Béghin
+73,72,PROFIT,Christophe,,x,F,,,15.,08.,1991,NW Ridge - North Ridge,,French,Pierre Béghin
+74,73,BALYBERDIN,Vladimir,,x,Rus,16,,01.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+75,74,KOPIEKA,Gennadi,,x,Ukr,17,,01.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+76,75,MAUDUIT,Chantal,f,x,F,,,03.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+77,76,NIKIFOROV,Aleksei,,x,Rus,,,03.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+78,77,FISCHER,Scott,,x,USA,,,16.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+79,78,MACE,Charles,,x,USA,,,16.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+80,79,VIESTURS,Ed,,x,USA,,,16.,08.,1992,SE Ridge (Abruzzi Spur),,International,Vladimir Balyberdin (Rus)
+81,80,BOŽIĆ,Stipe,,x,Cro,18,,13.,06.,1993,SE Ridge (Abruzzi Spur),,Slovenian,Tomaž Jamnik
+82,81,CARSOLIO,Carlos,,x,Mex,19,,13.,06.,1993,SE Ridge (Abruzzi Spur),,Slovenian,Tomaž Jamnik
+83,82,GROŠELJ,Viktor (Viki),,x,Slo,20,,13.,06.,1993,SE Ridge (Abruzzi Spur),,Slovenian,Tomaž Jamnik
+84,83,POŽGAJ,Zvonko,,x,Slo,,,13.,06.,1993,SE Ridge (Abruzzi Spur),,Slovenian,Tomaž Jamnik
+85,84,KROPP,Göran,,x,S,21,,23.,06.,1993,SE Ridge (Abruzzi Spur),,Slovenian,Tomaž Jamnik
+86,85,POWERS,Philip,,x,USA,,,07.,07.,1993,SE Ridge (Abruzzi Spur),,American,Stacy Allison (f)
+87,86,CULVER,Dan,,x,Can,22,,07.,07.,1993,SE Ridge (Abruzzi Spur),died on descent,American,Stacy Allison (f)
+88,87,HABERL,James,,x,Can,,,07.,07.,1993,SE Ridge (Abruzzi Spur),,American,Stacy Allison (f)
+89,88,BUKREEV,Anatoli,,x,Kaz,23,,30.,07.,1993,SE Ridge (Abruzzi Spur),,International,Reinmar Joswig (Ger)
+90,89,MEZGER,Peter,,x,Ger,,,30.,07.,1993,SE Ridge (Abruzzi Spur),died on descent,International,Reinmar Joswig (Ger)
+91,90,LOCK,Andrew,,x,Aus,,,30.,07.,1993,SE Ridge (Abruzzi Spur),,International,Reinmar Joswig (Ger)
+92,91,JENSEN,Rafael,,x,DK,24,,30.,07.,1993,SE Ridge (Abruzzi Spur),,Swedish,Magnus Nilsson
+93,92,JOSWIG,Reinmar,,x,Ger,,,30.,07.,1993,SE Ridge (Abruzzi Spur),died on descent,International,Reinmar Joswig (Ger)
+94,93,BIDNER,Daniel,,x,S,,,30.,07.,1993,SE Ridge (Abruzzi Spur),died on descent,Swedish,Magnus Nilsson
+95,94,MAZUR,Daniel,,x,USA,,,02.,09.,1993,West Ridge/SW side,,UK/USA,Dan Mazur
+96,95,PRATT,Jonathan,,x,UK,,English,02.,09.,1993,West Ridge/SW side,,UK/USA,Dan Mazur
+97,96,TOMÁS,Juan,,x,E,,Catalan,24.,06.,1994,SSE Ridge - Abruzzi Spur,,Spanish Basque,Juanito Oiarzabal
+98,97,IÑURRATEGI,Alberto,,x,E,,Basque,24.,06.,1994,SSE Ridge - Abruzzi Spur,,Spanish Basque,Juanito Oiarzabal
+99,98,IÑURRATEGI,Félix,,x,E,,Basque,24.,06.,1994,SSE Ridge - Abruzzi Spur,,Spanish Basque,Juanito Oiarzabal
+100,99,OIARZABAL,Juan Eusebio,1,x,E,,Basque,24.,06.,1994,SSE Ridge - Abruzzi Spur,,Spanish Basque,Juanito Oiarzabal
+101,100,DE PABLO,Enríque (Kike),,x,E,,Basque,24.,06.,1994,SSE Ridge - Abruzzi Spur,,Spanish Basque,Juanito Oiarzabal
+102,101,HALL,Robert,,,NZ,25,,09.,07.,1994,SE Ridge (Abruzzi Spur),,International,Ralf Dujmovits (Ger)
+103,102,DUJMOVITS,Ralf,,x,Ger,,,23.,07.,1994,SE Ridge (Abruzzi Spur),,International,Ralf Dujmovits (Ger)
+104,103,GUSTAFSSON,Veikka,,x,SF,26,,23.,07.,1994,SE Ridge (Abruzzi Spur),,International,Ralf Dujmovits (Ger)
+105,104,SCHLÖNVOGT,Axel,,x,Ger,,,23.,07.,1994,SE Ridge (Abruzzi Spur),,International,Ralf Dujmovits (Ger)
+
+106,105,WÄRTHL,Michael,,x,Ger,,23.,07.,1994,SE Ridge (Abruzzi Spur),,International,Ralf Dujmovits (Ger)
+107,106,GROOM,Michael,,x,Aus,,23.,07.,1994,SE Ridge (Abruzzi Spur),,American,David Bridges
+108,107,GORBENKO,Mstislav,,x,Ukr,,23.,07.,1994,SE Ridge (Abruzzi Spur),,Ukrainian,Vadim Sviridenko
+109,108,TERZYUL,Vladislav,,x,Ukr,,23.,07.,1994,SE Ridge (Abruzzi Spur),,Ukrainian,Vadim Sviridenko
+110,109,DE LA CRUZ,Sebastian,,x,Arg,27,30.,07.,1994,North Ridge,,Spanish Basque,Jose Carlos Tamayo
+111,110,TAMAYO,José-Carlos,,x,E,Basque,30.,07.,1994,North Ridge,,Spanish Basque,Jose Carlos Tamayo
+112,111,APELLANIZ,Juan Ignacio,,x,E,Basque,04.,08.,1994,North Ridge,died on descent,Spanish Basque,Jose Carlos Tamayo
+113,112,SAN SEBASTIAN,Juan José,,x,E,Basque,04.,08.,1994,North Ridge,,Spanish Basque,Jose Carlos Tamayo
+114,113,SHAH,Rajab,,x,Pak,,17.,07.,1995,SE Ridge (Abruzzi Spur),,International,Ronald Naar (NL)
+115,114,SHAH,Mehrban,,x,Pak,,17.,07.,1995,SE Ridge (Abruzzi Spur),,International,Ronald Naar (NL)
+116,115,VAN DER MEULEN,Hans,,x,NL,28,17.,07.,1995,SE Ridge (Abruzzi Spur),,International,Ronald Naar (NL)
+117,116,HINKES,Alan,,x,UK,English,17.,07.,1995,SE Ridge (Abruzzi Spur),,International,Ronald Naar (NL)
+118,117,NAAR,Ronald,,,NL,,17.,07.,1995,SE Ridge (Abruzzi Spur),,International,Ronald Naar (NL)
+119,118,GRANT,Bruce,,x,NZ,,13.,08.,1995,SE Ridge (Abruzzi Spur),died on descent,NZ/CDN/AUS,Peter Hillary (NZ)
+120,119,ORTIZ,Lorenzo,,x,E,Aragonese,13.,08.,1995,SSE Ridge - Abruzzi Spur,died on descent,Spanish,Jose Garces
+121,120,OLIVAR,Javier,,x,E,Aragonese,13.,08.,1995,SSE Ridge - Abruzzi Spur,died on descent,Spanish,Jose Garces
+122,121,HARGREAVES,Alison,f,x,UK,English,13.,08.,1995,SE Ridge (Abruzzi Spur),died on descent,American/British,Rob Slater (USA)
+123,122,SLATER,Rob,,x,USA,,13.,08.,1995,SE Ridge (Abruzzi Spur),died on descent,American/British,Rob Slater (USA)
+124,123,ESCARTIN,Javier,,x,E,Aragonese,13.,08.,1995,SSE Ridge - Abruzzi Spur,died on descent,Spanish,Jose Garces
+125,124,TODAKA,Masafumi,,x,Jp,,29.,07.,1996,SE Ridge (Abruzzi Spur),,Japanese,Masafumi Todaka
+126,125,PANZERI,Salvatore,,x,It,,29.,07.,1996,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+127,126,MAGGIONI,Giulio,,x,It,,29.,07.,1996,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+128,127,PANZERI,Mario,,x,It,,29.,07.,1996,SE Ridge (Abruzzi Spur),,Italian,Agostino Da Polenza
+129,128,MAZZOLENI,Lorenzo,,x,It,,29.,07.,1996,SE Ridge (Abruzzi Spur),died on descent,Italian,Agostino Da Polenza
+130,129,BIANCHI,Marco,,,It,,10.,08.,1996,North Ridge,,Polish,Krzysztof Wielicki
+131,130,KUNTNER,Christian,,x,It,South Tirolean,10.,08.,1996,North Ridge,,Polish,Krzysztof Wielicki
+132,131,WIELICKI,Krzysztof,,x,Pl,,10.,08.,1996,North Ridge,,Polish,Krzysztof Wielicki
+133,132,MATSUBARA,Masayuki,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+134,133,AKASAKA,Kenzo,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+135,134,MURATA,Bunsho,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+136,135,YOSHIDA,Yuichi,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+137,136,TANIGAWA,Taro,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+138,137,SHIINA,Atsushi,,,Jp,,12.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+139,138,GARCÍA-HUIDOBRO,Cristián,,,Chl,29,13.,08.,1996,SSE Ridge - Abruzzi Spur,,Chilean,Rodrigo Jordan
+140,139,PURCELL,Michael,,,Chl,,13.,08.,1996,SSE Ridge - Abruzzi Spur,,Chilean,Rodrigo Jordan
+141,140,ALVIAL,Misael,,,Chl,,13.,08.,1996,SSE Ridge - Abruzzi Spur,,Chilean,Rodrigo Jordan
+142,141,FARIAS,Waldo,,,Chl,,13.,08.,1996,SSE Ridge - Abruzzi Spur,,Chilean,Rodrigo Jordan
+143,142,YAMAMOTO,Atsushi,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+144,143,INABA,Hideki,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+145,144,NAGAKUBO,Koji,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+146,145,TAKEUCHI,Hirotaka,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+147,146,TAKAHASHI,Kazuhiro,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+148,147,SANO,Takashi,,,Jp,,14.,08.,1996,SSE Ridge - Abruzzi Spur,,Japanese,Atsushi Yamamoto
+149,148,PUSTELNIK,Piotr,,,Pl,,14.,08.,1996,North Ridge,,Polish,Krzysztof Wielicki
+150,149,PAWLOWSKI,Ryszard,,x,Pl,,14.,08.,1996,North Ridge,,Polish,Krzysztof Wielicki
+151,150,BUHLER,Carlos P.,,x,USA,,14.,08.,1996,North Ridge,,Russian,Ivan Dusharin
+152,151,BENKIN,Igor,,x,Rus,,14.,08.,1996,North Ridge,died on descent,Russian,Ivan Dusharin
+153,152,PENZOV,Sergei,,x,Rus,,14.,08.,1996,North Ridge,,Russian,Ivan Dusharin
+154,153,TANABE,Osamu,,,Jp,,19.,07.,1997,West Ridge/Face variation,,Japanese,Osamu Tanabe
+155,154,SUZUKI,Mikio,,,Jp,,19.,07.,1997,West Ridge/Face variation,,Japanese,Osamu Tanabe
+156,155,NAKAGAWA,Kunihito,,,Jp,,19.,07.,1997,West Ridge/Face variation,,Japanese,Osamu Tanabe
+157,156,TAKINE,Masamiki,,,Jp,,28.,07.,1997,West Ridge/Face variation,,Japanese,Osamu Tanabe
+158,157,NAKAJIMA,Akira,,,Jp,,28.,07.,1997,West Ridge/Face variation,,Japanese,Osamu Tanabe
+
+159,158,YAMADA,Ryoji,,,Jp,,,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+160,159,KOBAYASHI,Masami,,,Jp,,,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+161,160,DAWA TASHI,,,,Np,30,Sherpa,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+162,161,GYALBU,,,,Np,,Sherpa,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+163,162,MINGMA TSHERING,,,,Np,,Sherpa,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+164,163,NAWANG THILE,,,,Np,,Sherpa,28.,07.,1997,West Ridge/Face variation,Japanese,Osamu Tanabe
+165,164,PARK,Jung-Hun,,x,SK,,,26.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+166,165,KANG,Yeon-Ryong,,,SK,,,26.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+167,166,YUN,Jung-Hyun,,,SK,,,26.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+168,167,JOO,Woo-Pyoung,,,SK,,,26.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+169,168,YUN,Chi-Won,,,SK,,,29.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+170,169,LEE,Jeong-Hyun,,,SK,,,29.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+171,170,KIM,Joo-Hyung,,,SK,,,29.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+172,171,YOO,Soon-Ook,,,SK,,,29.,06.,2000,SSE Ridge - Abruzzi Spur,South Korean,Lee Sung-Won
+173,172,BLANC,Abele,,x,It,,,29.,07.,2000,SE Ridge (Abruzzi Spur),International,Waldemar Niclevicz (Bra)
+174,173,CAMANDONA,Marco,,x,It,,,29.,07.,2000,SE Ridge (Abruzzi Spur),International,Waldemar Niclevicz (Bra)
+175,174,MAHRUKI,Nasuh,,x,Tur,31,,29.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+176,175,NICLEVICZ,Waldemar,,x,Bra,32,,29.,07.,2000,SE Ridge (Abruzzi Spur),International,Waldemar Niclevicz (Bra)
+177,176,HWANG,Ki-Young,,,SK,,,30.,07.,2000,SE Ridge (Abruzzi Spur),South Korean,Wi Yeong-Kim
+178,177,YAMANOI,Yasushi,,,Jp,,,30.,07.,2000,SSE Ridge - Abruzzi Spur,Japanese,Reiko Terasawa (f)
+179,178,SHAW,Christopher,,x,USA,,,30.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+180,179,EVANS,Andrew,,x,Can,,,30.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+181,180,COLLINS,Andrew,,x,UK,,English,30.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+182,181,PIERSON,William,,x,USA,,,30.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+183,182,SHERAP JANGBU,,1,,Np,,Sherpa,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+184,183,UM,Hong-Gil,,,SK,,,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+185,184,MO,Sang-Hyun,,,SK,,,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+186,185,PARK,Mu-Taek,,,SK,,,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+187,186,YOO,Han-Kyu,,,SK,,,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+188,187,HAN,Wang-Yong,,x,SK,,,31.,07.,2000,SSE Ridge - Abruzzi Spur,South Korean,Yoo Han-Kyu
+189,188,VALLEJO,Iván,,x,Ecu,33,,31.,07.,2000,SE Ridge (Abruzzi Spur),International,Gary Pfisterer (USA)
+190,189,PAUNER,Carlos,,x,E,,Aragonese,22.,07.,2001,SE Ridge (Abruzzi Spur),International,Peter Guggemos (Ger)
+191,,SHERAP JANGBU,,2,,Np,,Sherpa,22.,07.,2001,SE Ridge (Abruzzi Spur),South Korean,Koo Cha-Joon
+192,190,PASANG TSHERING III,,,,Np,,Sherpa,22.,07.,2001,SE Ridge (Abruzzi Spur),South Korean,Koo Cha-Joon
+193,191,LAFAILLE,Jean-Christophe,,x,F,,,22.,07.,2001,SSE Ridge - Abruzzi Spur,International,Peter Guggemos (Ger)
+194,192,KAMMERLANDER,Hans,,x,It,,South Tirolean,22.,07.,2001,SSE Ridge - Abruzzi Spur,International,Peter Guggemos (Ger)
+195,193,PARK,Young-Seok,,,SK,,,22.,07.,2001,SE Ridge (Abruzzi Spur),South Korean,Koo Cha-Joon
+196,194,KANG,Seong-Gyu,,,SK,,,22.,07.,2001,SE Ridge (Abruzzi Spur),South Korean,Koo Cha-Joon
+197,195,OH,Hee-Joon,,,SK,,,22.,07.,2001,SE Ridge (Abruzzi Spur),South Korean,Kim Hyung-Woo
+198,196,GARCÉS,José-Antonio,,x,E,,Aragonese,22.,07.,2001,SE Ridge (Abruzzi Spur),International,Peter Guggemos (Ger)
+199,197,UNTERKIRCHER,Karl,,x,It,,,26.,07.,2004,SE Ridge (Abruzzi Spur),Italian,Agostino da Polenza
+200,198,MONDINELLI,Silvio,,x,It,,,26.,07.,2004,SE Ridge (Abruzzi Spur),Italian,Agostino da Polenza
+201,199,VALLEJO,Juan,,x,E,,Basque,26.,07.,2004,SE Ridge (Abruzzi Spur),Spanish,Sebastián Álvaro
+202,200,ZABALZA,Mikel,,x,E,,Basque,26.,07.,2004,SE Ridge (Abruzzi Spur),Spanish,Sebastián Álvaro
+203,201,NONES,Walter,,x,It,,,26.,07.,2004,SE Ridge (Abruzzi Spur),Italian,Agostino da Polenza
+204,202,COMPAGNONI,Michele,,x,It,,,26.,07.,2004,SE Ridge (Abruzzi Spur),Italian,Agostino da Polenza
+205,203,GIACOMELLI,Ugo,,x,It,,,26.,07.,2004,SE Ridge (Abruzzi Spur),Italian,Agostino da Polenza
+206,,OIARZABAL,Juan Eusebio,2,,E,,Basque,26.,07.,2004,SE Ridge (Abruzzi Spur),Spanish,Sebastián Álvaro
+207,204,PASABAN,Edurne,f,x,E,4,Basque,26.,07.,2004,SE Ridge (Abruzzi Spur),Spanish,Sebastián Álvaro
+208,205,MINGMA,,,,Np,,Sherpa,27.,07.,2004,SE Ridge (Abruzzi Spur),Swiss/Italian,Kari Kobler (CH)
+209,206,THILEN,,1,x,Np,,Sherpa,27.,07.,2004,SE Ridge (Abruzzi Spur),Swiss/Italian,Kari Kobler (CH)
+210,207,ASAD KHAN,Hasan,,x,Pak,,,27.,07.,2004,SE Ridge (Abruzzi Spur),Swiss/Italian,Kari Kobler (CH)
+211,208,BLASER,Jonannes (Hannes),,,CH,,,27.,07.,2004,SE Ridge (Abruzzi Spur),Swiss/Italian,Kari Kobler (CH)
+
+212,209,DIBONA,Mario,,,It,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+213,210,BENEDETTI,Renzo,,,It,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+214,211,SOTTSASS,Renato,,,It,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+215,212,DA POZZO,Marco,,,It,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+216,213,BIANBA ZAXI (PEMBA TASHI),,,,Chn,34,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+217,214,CERING DOJE (TSHERING DORJE),,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+218,215,RENA (REN NA),,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+219,216,LUOZE (LODUE),,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+220,217,ZAXI CERING (TASHI TSHERING),,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+221,218,"PHURBU DHONDUP (""Big"")",,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+222,219,PEMBA DHONDUP (BIANBA DUNZHU),,,,Chn,,Tibetan,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+223,220,HUSSAIN,Nisar,,,Pak,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+224,221,HUSSAIN,Mohammad,,,Pak,,,27.,07.,2004,SE Ridge (Abruzzi Spur),,Chinese,Samdrup
+225,222,LAGUNILLA,Vicente (Tente),,x,E,,Castilian (L),27.,07.,2004,SE Ridge (Abruzzi Spur),,Spanish,Carlos Soria
+226,223,GONZÁLEZ-RUBIO,Fernando,,x,Col,35,,27.,07.,2004,SE Ridge (Abruzzi Spur),,International,Alfred Schreilechner (A)
+227,224,SORIA,Carlos,,,E,,Madrilian,28.,07.,2004,SE Ridge (Abruzzi Spur),oldest (65),Spanish,Carlos Soria
+228,225,MUKTU LHAKPA,,,,Np,,Sherpa,28.,07.,2004,SE Ridge (Abruzzi Spur),,Spanish,Carlos Soria
+229,226,WIRTH,Michel André (Mischu),,,CH,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+230,227,OCHOA DE OLZA,Iñaki,,x,E,,Basque,28.,07.,2004,SE Ridge (Abruzzi Spur),,International,Alfred Schreilechner (A)
+231,228,BAIG,Shaheen,,x,Pak,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,International,Alfred Schreilechner (A)
+232,229,ALI,Mohammad III,,,Pak,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+233,230,COLIBASANU,Horia,,x,Rom,36,,28.,07.,2004,SE Ridge (Abruzzi Spur),,International,Alfred Schreilechner (A)
+234,231,LACEDELLI,Mario,,,It,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+235,232,ZARDINI,Luciano,,,It,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+236,233,HÄHLEN,Cedric,,,CH,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+237,234,SURCHAT,Daniel,,,CH,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,Swiss/Italian,Kari Kobler (CH)
+238,235,SUVIGA,Vladimir,,x,Kaz,,,28.,07.,2004,SE Ridge (Abruzzi Spur),,International,Alfred Schreilechner (A)
+239,236,GUBAEV,Aleksandr,,x,Kyr,37,,28.,07.,2004,SE Ridge (Abruzzi Spur),died on descent,International,Alfred Schreilechner (A)
+240,237,YANO,Toshiaki,,,Jp,,,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+241,238,SEINO,Yoshiki,,,Jp,,,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+242,239,MOCHIZUKI,Yasuhiko,,x,Jp,,,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+243,240,KAWASHIMA,Takashi,,,Jp,,,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+244,241,PHURBA CHHIRI,,,,Np,,Sherpa,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+245,242,TIKA RAM GURUNG,,,,Np,,Gurung,07.,08.,2004,SE Ridge (Abruzzi Spur),,Japanese,Kazuyoshi Kondo
+246,243,MATSUMOTO,Masahide,,,Jp,,,16.,08.,2004,SSE Ridge - Abruzzi Spur,,Japanese,Masahide Matsumoto
+247,244,INUI,Aska,,,Jp,,,16.,08.,2004,SSE Ridge - Abruzzi Spur,,Japanese,Masahide Matsumoto
+248,245,TAKESAKO,Tomoya,,,Jp,,,16.,08.,2004,SSE Ridge - Abruzzi Spur,,Japanese,Masahide Matsumoto
+249,246,COROMINAS,Jordi,,x,E,,Catalan,17.,08.,2004,"SSW Pillar (""Magic Line"")",,Spanish,Òscar Cadiach
+250,247,BENET,Romano,,x,It,,,26.,07.,2006,SE Ridge (Abruzzi Spur),,Italian,Romano Benet
+251,248,MEROI,Nives,f,x,It,5,,26.,07.,2006,SE Ridge (Abruzzi Spur),,Italian,Romano Benet
+252,249,AOKI,Tatsuya,,,Jp,,,01.,08.,2006,SSE Ridge - Abruzzi Spur,,Japanese,Yoshitsugu Deriha
+253,250,KOMATSU,Yuka,f,,Jp,6,,01.,08.,2006,SSE Ridge - Abruzzi Spur,,Japanese,Yoshitsugu Deriha
+254,251,KADOSHNIKOV,Nikolai,,,Rus,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Russian,Yuri Agafonov
+255,252,AFANASJEV,Victor,,,Rus,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Russian,Yuri Agafonov
+256,253,ELISEEV,Aleksandr,,,Rus,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Russian,Yuri Agafonov
+257,254,GUBANOV,Romano,,,Rus,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Russian,Yuri Agafonov
+258,255,WARNER,Christopher (Chris),,x,USA,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,American,Christopher Warner
+259,256,NORMAND,Bruce,,x,UK,,Scottish,20.,07.,2007,SE Ridge (Abruzzi Spur),,American,Christopher Warner
+260,257,GARCIA,João,,x,Por,38,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Portuguese,João Garcia
+261,258,BOWIE,Donald (Don),,x,Can,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,American,Christopher Warner
+262,259,UHER,Libor,,x,Cz,,,20.,07.,2007,SSE Ridge - Abruzzi Spur,,Czech,Leopold Sulovský
+263,260,KIM,Chang-Ho,,x,SK,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,South Korean,Hong Bo-Seong
+264,261,KIM,Jin-Tae,,,SK,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,South Korean,Hong Bo-Seong
+
+265,262 OH,,Eun-Sun,f,,SK,,7,20.,07.,2007,SE Ridge (Abruzzi Spur),,South Korean,Oh Eun-Sun
+266,,THILEN,,2,,Np,,Sherpa,20.,07.,2007,SE Ridge (Abruzzi Spur),,South Korean,Oh Eun-Sun
+267,263,MINGMA THINDUK,,,,Np,,Sherpa,20.,07.,2007,SE Ridge (Abruzzi Spur),,South Korean,Oh Eun-Sun
+268,264,FARIDYAN,Kazem,,x,Irn,39,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Italian,Daniele Nardi
+269,265,NARDI,Daniele,,x,It,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Italian,Daniele Nardi
+270,266,VIELMO,Mario,,x,It,,,20.,07.,2007,SE Ridge (Abruzzi Spur),,Italian,Daniele Nardi
+271,267,ZAVKA,Stefano,,x,It,,,20.,07.,2007,SE Ridge (Abruzzi Spur),died on descent,Italian,Daniele Nardi
+272,268,MARIEV,Andrei,,x,Rus,,,21.,08.,2007,West Face,,Russian,Victor Kozlov
+273,269,POPOVICH,Vadim,,x,Rus,,,21.,08.,2007,West Face,,Russian,Victor Kozlov
+274,270,TOTMYANIN,Nikolai,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+275,271,BOLOTOV,Aleksei,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+276,272,SOKOLOV,Gleb,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+277,273,VINOGRADSKI,Yevgeni,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+278,274,VOLODIN,Victor,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+279,275,KIRIEVSKI,Gennadi,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+280,276,GORELIK,Vitali,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+281,277,SHABALIN,Pavel,,x,Rus,,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+282,278,TUKHVATULLIN,Ilyas,,x,Uzb,40,,22.,08.,2007,West Face,,Russian,Victor Kozlov
+283,279,URUBKO,Denis,,x,Kaz,,,02.,10.,2007,North Ridge,,Kazakh,Denis Urubko
+284,280,SAMOILOV,Sergei,,x,Kaz,,,02.,10.,2007,North Ridge,,Kazakh,Denis Urubko
+285,281,ZERAIN,Alberto (Zeras),,x,E,,Basque,01.,08.,2008,SE Ridge (Abruzzi Spur),,Spanish,Alberto Zerain
+286,282,SKOG,Cecilie,f,,Nor,41,8,01.,08.,2008,SE Ridge (Abruzzi Spur),,Norwegian,Cecilie Skog
+287,283,NESSA,Lars Flatø,,,Nor,,,01.,08.,2008,SE Ridge (Abruzzi Spur),,Norwegian,Cecilie Skog
+288,284,TSHERING DORJE II (CHHIRING DORJE),,,x,Np,,Sherpa,01.,08.,2008,SE Ridge (Abruzzi Spur),,International,Michael Farris (USA)
+289,285,PASANG BHOTE I,,,,Np,,Bhutia,01.,08.,2008,SE Ridge (Abruzzi Spur),,Korean,Kim Jae-Soo
+290,286,JUMIK BHOTE,,,,Np,,Bhutia,01.,08.,2008,SE Ridge (Abruzzi Spur),died on descent,Korean,Kim Jae-Soo
+291,287,HWANG,Dong-Jin,,,SK,,,01.,08.,2008,SE Ridge (Abruzzi Spur),died on descent,Korean,Kim Jae-Soo
+292,288,KIM,Hyo-Gyung,,,SK,,,01.,08.,2008,SE Ridge (Abruzzi Spur),died on descent,Korean,Kim Jae-Soo
+293,289,KIM,Jae-Soo,,,SK,,,01.,08.,2008,SE Ridge (Abruzzi Spur),,Korean,Kim Jae-Soo
+294,290,GO,Mi-Sun (Mi-Young),f,,SK,,,01.,08.,2008,SE Ridge (Abruzzi Spur),,Korean,Kim Jae-Soo
+295,291,PARK,Kyeong-Hyo,,,SK,,,01.,08.,2008,SE Ridge (Abruzzi Spur),died on descent,Korean,Kim Jae-Soo
+296,292,McDONNELL,Gerard,,x,Ire,42,,01.,08.,2008,SSE Ridge - Abruzzi Spur,died on descent,Dutch,Wilco van Rooijen
+297,293,CONFORTOLA,Marco,,,It,,,01.,08.,2008,SE Ridge (Abruzzi Spur),,Italian,Marco Confortola
+298,294,D'AUBARÈDE,Hugues,,,F,,,01.,08.,2008,SSE Ridge - Abruzzi Spur,died on descent,International,Hugues d'Aubarede (F)
+299,295,KARIM,Mehrban,,x,Pak,,,01.,08.,2008,SSE Ridge - Abruzzi Spur,died on descent,International,Hugues d'Aubarede (F)
+300,296,VAN DER GEVEL,Cas,,x,NL,,,01.,08.,2008,SSE Ridge - Abruzzi Spur,,Dutch,Wilco van Rooijen
+301,297,VAN ROOIJEN,Wilco,,x,NL,,,01.,08.,2008,SSE Ridge - Abruzzi Spur,,Dutch,Wilco van Rooijen
+302,298,PEMBA GYALZEN I,,,x,Np,,Sherpa,01.,08.,2008,SSE Ridge - Abruzzi Spur,,Dutch,Wilco van Rooijen
+303,299,KALTENBRUNNER,Gerlinde,f,x,A,,9,23.,08.,2011,North Ridge,,International,Ralf Dujmovits (Ger)
+304,300,PIVTSOV,Vassili,,x,Kaz,,,23.,08.,2011,North Ridge,,International,Ralf Dujmovits (Ger)
+305,301,ZHUMAYEV,Maksut,,x,Kaz,,,23.,08.,2011,North Ridge,,International,Ralf Dujmovits (Ger)
+306,302,ZAŁUSKI,Dariusz (Darek),,x,Pl,,,23.,08.,2011,North Ridge,,International,Ralf Dujmovits (Ger)
+© Eberhard Jurgalski for 8000ers.com,,,,,,,,,,,,,,,

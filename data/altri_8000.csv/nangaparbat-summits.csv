@@ -1,0 +1,335 @@
+I,A,NAME,First Names,S,NATION,,PEOPLE,D,M,Y,ROUTE,NOTE,EXP.,LEADER
+1,1,BUHL,Hermann,,A,1,,03.,07.,1953,Rakhiot Flank,,Ger,Karl Maria Herrligkoffer
+2,2,KINSHOFER,Toni,,Ger,2,,22.,06.,1962,Diamir Face (Kinshofer),,Ger,Karl Maria Herrligkoffer
+3,3,LÖW,Siegfried,,Ger,,,22.,06.,1962,Diamir Face (Kinshofer),died on descent,Ger,Karl Maria Herrligkoffer
+4,4,MANNHARDT,Andreas,,Ger,,,22.,06.,1962,Diamir Face (Kinshofer),,Ger,Karl Maria Herrligkoffer
+5,5,MESSNER,Günther,,It,3,Tyrolean,27.,06.,1970,Rupal Face direct,died on descent,Ger,Karl Maria Herrligkoffer
+6,6,MESSNER,Reinhold,1,It,,Tyrolean,27.,06.,1970,Rupal Face direct,,Ger,Karl Maria Herrligkoffer
+7,7,KUEN,Felix,,A,,,28.,06.,1970,Rupal Face direct,,Ger,Karl Maria Herrligkoffer
+8,8,SCHOLZ,Peter,,Ger,,,28.,06.,1970,Rupal Face direct,,Ger,Karl Maria Herrligkoffer
+9,9,FIALA,Ivan,,Slk,4,,11.,07.,1971,Rakhiot Flank,,Slk,Ivan Gálfy
+10,10,OROLIN,Michal,,Slk,,,11.,07.,1971,Rakhiot Flank,,Slk,Ivan Gálfy
+11,11,GIMPEL,Siegfried,,A,,,11.,08.,1976,Rupal Face (Schell),,A,Hanns Schell
+12,12,SCHAUER,Robert,,A,,,11.,08.,1976,Rupal Face (Schell),,A,Hanns Schell
+13,13,SCHELL,Hanns,,A,,,11.,08.,1976,Rupal Face (Schell),,A,Hanns Schell
+14,14,STURM,Hilmar,,A,,,11.,08.,1976,Rupal Face (Schell),,A,Hanns Schell
+,15,MESSNER,Reinhold,2,It,,Tyrolean,09.,08.,1978,Diamir Face direct,,It,Reinhold Messner
+15,16,BAUER,Wilhelm,,A,,,23.,08.,1978,Kinshofer (variant 1),,A,Rudolf Wurzer
+16,17,STREIF,Reinhard,,A,,,23.,08.,1978,Kinshofer (variant 1),,A,Rudolf Wurzer
+17,18,WURZER,Rudolf,,A,,,23.,08.,1978,Kinshofer (variant 1),,A,Rudolf Wurzer
+18,19,IMITZER,Alfred,,A,,,28.,08.,1978,Kinshofer (variant 1),,A,Rudolf Wurzer
+19,20,INDRICH,Alois,,A,,,28.,08.,1978,Kinshofer (variant 1),,A,Rudolf Wurzer
+20,21,NAAR,Ronald,,NL,5,,05.,08.,1981,Schell (variant 1),,NL,Ronald Naar
+21,22,FASSI,Alessandro,,It,,,19.,08.,1981,Kinshofer (variant 2),,It,Augusto Zanotti
+22,23,ROTA,Luigi,,It,,,19.,08.,1981,Kinshofer (variant 2),,It,Augusto Zanotti
+23,24,SCANABESSI,Gianbattista,,It,,,19.,08.,1981,Kinshofer (variant 2),,It,Augusto Zanotti
+24,25,JOOS,Norbert,,CH,6,,10.,06.,1982,Kinshofer (variant 1),,CH,Stefan Wörner
+25,26,LORETAN,Erhard,,CH,,,10.,06.,1982,Kinshofer (variant 1),,CH,Stefan Wörner
+26,27,ENGL,Hans,,Ger,,,14.,07.,1982,Kinshofer (variant 1),,Internat.,Pierre Mazeaud (F)
+27,28,KOBLMÜLLER,Eduard,,A,,,17.,07.,1983,Rupal Face (Schell),,A,Walter Göttinger
+28,29,NAKANISHI,Norio,,Jp,7,,31.,07.,1983,Kinshofer (variant 1),,Jp,Shigeyoshi Kido
+29,30,TANIGUCHI,Mamoru,,Jp,,,31.,07.,1983,Kinshofer (variant 1),,Jp,Shigeyoshi Kido
+30,31,DE PABLO,Enríque (Kike),,E,8,Basque,05.,08.,1983,Kinshofer (variant 1),,E,José Luis Zuloaga
+31,32,ZULOAGA,José Luis,,E,,Basque,05.,08.,1983,Kinshofer (variant 1),,E,José Luis Zuloaga
+32,33,RUEDI,Marcel,,CH,,,03.,06.,1984,Kinshofer (variant 3),,CH,Fredi Graf
+33,34,BARRARD,Liliane,f,F,9,1,27.,06.,1984,Kinshofer (variant 4),,F,Maurice Barrard
+34,35,BARRARD,Maurice,,F,,,27.,06.,1984,Kinshofer (variant 4),,F,Maurice Barrard
+35,36,CADIACH,Oscar,,E,,Catalan,07.,08.,1984,Schell (variant 2),,E,Jordi Magriñà
+36,37,MAGRIÑÀ,Jordi,,E,,Catalan,07.,08.,1984,Schell (variant 2),,E,Jordi Magriñà
+37,38,HANADA,Hiroshi,,Jp,,,08.,07.,1985,Kinshofer (variant 1),,Jp,Mitsuo Uematsu
+38,39,KIKUCHI,Mamoru,,Jp,,,08.,07.,1985,Kinshofer (variant 1),,Jp,Mitsuo Uematsu
+39,40,DE LA FERRIÉRE,Laurence,f,F,,,08.,07.,1985,Kinshofer (variant 1),,F,Bernard Muller
+40,41,MULLER,Bernard,,F,,,08.,07.,1985,Kinshofer (variant 1),,F,Bernard Muller
+41,42,DACHER,Michael,,Ger,,,12.,07.,1985,Kinshofer (variant 1),,Ger/A,Peter Habeler
+42,43,HABELER,Peter,,A,,,12.,07.,1985,Kinshofer (variant 1),,Ger/A,Peter Habeler
+43,44,KUKUCZKA,Jerzy,,Pl,10,,13.,07.,1985,Rupal Face SE Pillar,,Pl,Paweł Mularz
+44,45,HEINRICH,Zygmunt Andrzej,,Pl,,,13.,07.,1985,Rupal Face SE Pillar,,Pl,Paweł Mularz
+45,46,LOBODZIŃSKI,Slawomir,,USA,11,Polish Origin,13.,07.,1985,Rupal Face SE Pillar,,Pl,Paweł Mularz
+46,47,CARSOLIO,Carlos,,Mex,12,,13.,07.,1985,Rupal Face SE Pillar,,Pl,Paweł Mularz
+47,48,CZERWIŃSKA,Anna,f,Pl,,2,15.,07.,1985,Kinshofer (variant 1),,Pl,Dobrosława Wolf (f)
+48,49,PALMOWSKA,Krystyna,f,Pl,,,15.,07.,1985,Kinshofer (variant 1),,Pl,Dobrosława Wolf (f)
+49,50,RUTKIEWICZ,Wanda,f,Pl,,,15.,07.,1985,Kinshofer (variant 1),,Pl,Dobrosława Wolf (f)
+50,51 DE STEFANI,,Fausto,,It,,,15.,08.,1986,Kinshofer (variant 1),,It,Almo Giambisi
+
+51,52,MARTINI,Sergio,,It,,,15.,08.,1986,Kinshofer (variant 1),It,Almo Giambisi
+52,53,GARCÍA,Moisés,,E,,Valencia,15.,08.,1986,Kinshofer (variant 1),E,Miguel Gómez
+53,54,GÓMEZ,Miguel,,E,,Catalan,15.,08.,1986,Kinshofer (variant 1),E,Miguel Gómez
+54,55,VIDAURRE,Rafael,,E,,Valencia,15.,08.,1986,Kinshofer (variant 1),E,Miguel Gómez
+55,56,LANTERS,Hans,,NL,,,16.,08.,1986,Kinshofer (variant 1),NL/Bel/Lux,Jan Vanhees (Bel)
+56,57,VANHEES,Jan,,Bel,13,,16.,08.,1986,Kinshofer (variant 1),NL/Bel/Lux,Jan Vanhees (Bel)
+57,58,VIVIJS,Lutgaarde,f,Bel,,3,16.,08.,1986,Kinshofer (variant 1),NL/Bel/Lux,Jan Vanhees (Bel)
+58,59,CALCAGNO,Giovanni,,It,,,05.,07.,1987,Kinshofer (variant 1),It,Agostino Da Polenza
+59,60,DOROTEI,Soro,,It,,,05.,07.,1987,Kinshofer (variant 1),It,Agostino Da Polenza
+60,61,VIDONI,Tullio,,It,,,05.,07.,1987,Kinshofer (variant 1),It,Agostino Da Polenza
+61,62,CHAMOUX,Benoît,,F,,,05.,07.,1987,Kinshofer (variant 1),It,Agostino Da Polenza
+62,63,ÁLVAREZ,Ferran,,E,,Catalan,09.,08.,1987,Kinshofer (variant 1),E,Santiago Arribas
+63,64,EXPÓSITO,Pedro,,E,,Aragonese,09.,08.,1987,Kinshofer (variant 1),E,Santiago Arribas
+64,65,HERNÁNDEZ,Domingo,,E,,Aragonese,09.,08.,1987,Kinshofer (variant 1),E,Santiago Arribas
+65,66,MARTÍNEZ,Joan,,E,,Catalan,09.,08.,1987,Kinshofer (variant 1),E,Santiago Arribas
+66,67,MATSUI,Kimiharu,,Jp,,,19.,08.,1987,Diamir Face (Kinshofer),Jp,Tadakiyo Sakahara
+67,68,OKABAYASHI,Ryoichi,,Jp,,,19.,08.,1987,Diamir Face (Kinshofer),Jp,Tadakiyo Sakahara
+68,69,ENDO,Haruyuki,,Jp,,,13.,07.,1988,Kinshofer (variant 1),Jp,Haruyuki Endo
+69,70,ENDO,Yuka,f,Jp,,4,13.,07.,1988,Kinshofer (variant 1),Jp,Haruyuki Endo
+70,71,HUPFAUER,Siegfried,,Ger,,,29.,07.,1988,Kinshofer (variant 1),Ger,Ekke Gundelach
+71,72,MÜGGE,Thomas,,Ger,,,29.,07.,1988,Kinshofer (variant 1),Ger,Ekke Gundelach
+72,73,GASSLER,Oswald,,A,,,09.,08.,1988,Kinshofer (variant 1),A,Heinrich Koch
+73,74,GUNDELACH,Ekkert,,Ger,,,13.,07.,1989,Kinshofer (variant 1),Ger/Pak,Ekke Gundelach/M. Sher Khan
+74,75,SHER KHAN,Mohammad,,Pak,14,,13.,07.,1989,Kinshofer (variant 1),Ger/Pak,Ekke Gundelach/M. Sher Khan
+75,76,ATTA-UL-HAQ,Mirza Mohammad,,Pak,,,13.,07.,1989,Kinshofer (variant 1),Ger/Pak,Ekke Gundelach/M. Sher Khan
+76,77,ULLAH,Mohammad,1,Pak,,,13.,07.,1989,Kinshofer (variant 1),Ger/Pak,Ekke Gundelach/M. Sher Khan
+77,78,SHAH,Rajab,,Pak,,,13.,07.,1989,Kinshofer (variant 1),Ger/Pak,Ekke Gundelach/M. Sher Khan
+78,79,KAMMERLANDER,Hans,,It,,,01.,07.,1990,Kinshofer (variant 1),CH,Diego Wellig
+79,80,PORTILLA,Ramón,,E,,Madrilian,25.,07.,1990,Kinshofer (variant 1),E,José María González
+80,81,SATO,Masanori,,Jp,,,25.,07.,1990,Kinshofer (variant 1),Jp,Taeko Nagao (f)
+81,82,FRANTAR,Marija,f,Slo,15,5,31.,07.,1990,Rupal Face (Schell),Slo,Tone Golnar
+82,83,ROZMAN,Joze,,Slo,,,31.,07.,1990,Rupal Face (Schell),Slo,Tone Golnar
+83,84,NICOLAS,Pedro,,E,,Madrilian,11.,08.,1990,Kinshofer (variant 1),E,Carlos Soria
+84,85,SORIA,Carlos,,E,,Madrilian,11.,08.,1990,Kinshofer (variant 1),E,Carlos Soria
+85,86,FREDBORG,Andreas,,Nor,16,,11.,08.,1990,Kinshofer (variant 1),Nor,Andreas Fredborg
+86,87,JOSWIG,Reinmar,,Ger,,,12.,08.,1990,Rupal Face (Schell),Ger,Reinmar Joswig
+87,88,MEZGER,Peter,,Ger,,,12.,08.,1990,Rupal Face (Schell),Ger,Reinmar Joswig
+88,89,TODAKA,Masafumi,,Jp,,,18.,08.,1990,Rupal Face (Schell),Jp,Tadakiyo Sakahara
+89,90,MEAR,Roger,,UK,17,,21.,07.,1991,Kinshofer (variant 1),UK,Roger Mear
+90,91,WALSH,David,,UK,,,21.,07.,1991,Kinshofer (variant 1),UK,Roger Mear
+91,92,KIM,Hyung-Ju,,SK,18,,29.,06.,1992,Kinshofer (variant 1),SK,Park Chan-Gi
+92,93,PARK,Hee-Taek,,SK,,,29.,06.,1992,Kinshofer (variant 1),SK,Cho Hyung-Gyu
+93,94,SONG,Jea-Deuk,,SK,,,29.,06.,1992,Kinshofer (variant 1),SK,Cho Hyung-Gyu
+94,95,NEZERKA,Josef,,Cz,19,,04.,07.,1992,Kinshofer (variant 1),Cz,Josef Rakoncaj
+95,96,RAKONCAJ,Josef,,Cz,,,04.,07.,1992,Kinshofer (variant 1),Cz,Josef Rakoncaj
+96,97,HÄUTER,Christoph,,CH,,,08.,07.,1992,Kinshofer (variant 1),CH,Martin Fischer
+97,98,ABREGO,Mari,,E,,Basque,12.,07.,1992,Kinshofer (variant 1),E,Miguel Ruiz de Apodaka
+98,99,APELLANIZ,Juan Ignacio,,E,,Basque,12.,07.,1992,Kinshofer (variant 1),E,Miguel Ruiz de Apodaka
+99,100,OIARZABAL,Juan Eusebio,,E,,Basque,12.,07.,1992,Kinshofer (variant 1),E,Miguel Ruiz de Apodaka
+100,101,RUIZ de APODAKA,Mikel,,E,,Basque,12.,07.,1992,Kinshofer (variant 1),E,Miguel Ruiz de Apodaka
+101,102,GOZDZIK,Jozef,,Pl,,,12.,07.,1992,Kinshofer (variant 1),Pl,Piotr Pustelnik
+102,103,PUSTELNIK,Piotr,,Pl,,,12.,07.,1992,Kinshofer (variant 1),Pl,Piotr Pustelnik
+
+103,104,BARRENETXEA,Pablo,,E,,Basque,07.,07.,1993,Kinshofer (variant 1),,E,Pablo Barrenetxea
+104,105,CLAVEL,José Luis,,E,,Murcia,07.,07.,1993,Kinshofer (variant 1),,E,Pablo Barrenetxea
+105,106,ESTIÚ,Ramón,,E,,Catalan,30.,07.,1993,Kinshofer (variant 1),,E,Joaquim Bover
+106,107,PERMANYÉ,Josep,,E,,Catalan,30.,07.,1993,Kinshofer (variant 1),,E,Joaquim Bover
+107,108,MOCHIZUKI,Yasuhiko,,Jp,,,16.,08.,1993,Kinshofer (variant 1),,Jp,Tadakiyo Skahara
+108,109,TONCHEV,Toncho,,Bul,20,,18.,08.,1993,Kinshofer (variant 1),,Bul,Minko Zankovski
+109,110,PAWŁOWSKI,Ryszard,,Pl,,,24.,08.,1993,Kinshofer (variant 1),,Pl,Ryszard Pawłowski
+110,111,STEFKO,Bogdan,,Pl,,,24.,08.,1993,Kinshofer (variant 1),,Pl,Ryszard Pawłowski
+111,112,KONEWKA,Miroslaw,,Pl,,,28.,08.,1993,Kinshofer (variant 1),,Pl,Ryszard Pawłowski
+112,113,SCHLEYPEN,Rüdiger,,Ger,,,28.,08.,1993,Kinshofer (variant 1),,Pl,Ryszard Pawłowski
+113,114,AGRAZ,José-Ramón,,E,,Aragonese,23.,06.,1994,Kinshofer (variant 1),,E,Antonio Ubieto
+114,115,CASTILLÓN,Joaquín,,E,,Aragonese,23.,06.,1994,Kinshofer (variant 1),,E,Antonio Ubieto
+115,116,ORTIZ,Lorenzo,,E,,Aragonese,23.,06.,1994,Kinshofer (variant 1),,E,Antonio Ubieto
+116,117,ABE,Yukio,,Jp,,,23.,07.,1995,Rakhiot Flank (variant),,Jp,Hiroshi Sakai
+117,118,AKIYAMA,Takeshi,,Jp,,,23.,07.,1995,Rakhiot Flank (variant),,Jp,Hiroshi Sakai
+118,119,SAKAI,Hiroshi,,Jp,,,23.,07.,1995,Rakhiot Flank (variant),,Jp,Hiroshi Sakai
+119,120,WIELICKI,Krzysztof,,Pl,,,01.,09.,1996,Kinshofer (variant 1),,Pl,Krzysztof Wielicki
+120,121,AKBU,,,Chn,21,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+121,122,BIANBA ZAXI,,,Chn,,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+122,123,CERING DOJE,,,Chn,,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+123,124,JIABU,,,Chn,,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+124,125,LUOZE,,,Chn,,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+125,126,RENA,,,Chn,,Tibetan,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+126,127,BAIG,Aziz,,Pak,,,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+,128,ULLAH,Mohammad,2,Pak,,,15.,06.,1997,Kinshofer (variant 1),,Chn/Pak,Samdrub
+127,129,SAWADA,Minoru,,Jp,,,07.,07.,1997,Kinshofer (variant 1),,Jp,Minoru Sawada
+128,130,PARK,Jung-Hun,,SK,,,07.,07.,1997,Kinshofer (variant 1),,SK,Yoon Kye-Joong
+129,131,KIM,Kyung-Soo,,SK,,,07.,07.,1997,Kinshofer (variant 1),,SK,Yoon Kye-Joong
+130,132,SHIN,Sang-Man,,SK,,,07.,07.,1997,Kinshofer (variant 1),,SK,Yoon Kye-Joong
+131,133,KIM,Joo-Hyung,,SK,,,09.,07.,1997,Kinshofer (variant 1),,SK,Park Sang-Su
+132,134,MO,Sang-Hyun,,SK,,,09.,07.,1997,Kinshofer (variant 1),,SK,Park Sang-Su
+133,135,BUHLER,Carlos P.,,USA,,,14.,07.,1997,Kinshofer (variant 1),,USA/Rus,Carlos Buhler (USA)
+134,136,DUSHARIN,Ivan,,Rus,22,,14.,07.,1997,Kinshofer (variant 1),,USA/Rus,Carlos Buhler (USA)
+135,137,KOLISHNICHENKO,Viktor,,Rus,,,18.,07.,1997,Kinshofer (variant 1),,USA/Rus,Carlos Buhler (USA)
+136,138,VOLKOV,Andrei,,Rus,,,18.,07.,1997,Kinshofer (variant 1),,USA/Rus,Carlos Buhler (USA)
+137,139,KASHU,Shin,,Jp,,,18.,07.,1997,Kinshofer (variant 1),,Jp,Masatsugu Kajiura
+138,140,OTANI,Atsushi,,Jp,,,18.,07.,1997,Kinshofer (variant 1),,Jp,Masatsugu Kajiura
+139,141,YAMAMOTO,Hideo,,Jp,,,18.,07.,1997,Kinshofer (variant 1),,Jp,Masatsugu Kajiura
+140,142,HIRAOKA,Ryuseki,,Jp,,,19.,07.,1997,Kinshofer (variant 1),,Jp,Minoru Sawada
+141,143,ONO,Takeshi,,Jp,,,19.,07.,1997,Kinshofer (variant 1),,Jp,Minoru Sawada
+142,144,YANAGIHARA,Yoshio,,Jp,,,19.,07.,1997,Kinshofer (variant 1),,Jp,Minoru Sawada
+143,145,BRETCHA,Joaquim,,E,,Catalan,27.,07.,1997,Kinshofer (variant 1),,E,Joan Colet
+144,146,COLET,Joan,,E,,Catalan,27.,07.,1997,Kinshofer (variant 1),died on descent,E,Joan Colet
+145,147,COMERMA,Toni,,E,,Catalan,27.,07.,1997,Kinshofer (variant 1),,E,Joan Colet
+146,148,SALLENT,Eduard,,E,,Catalan,27.,07.,1997,Kinshofer (variant 1),,E,Joan Colet
+147,149,CIOROIANU,Mihai,,Rom,23,,27.,07.,1997,Kinshofer (variant 1),,Rom,Mihai Cio...
+148,150,BERSHOV,Sergei,,Ukr,24,,31.,07.,1997,Kinshofer (variant 1),,Ukr,Vladimir Sviridenko
+149,151,TERZEOUL,Vladislav,,Ukr,,,31.,07.,1997,Kinshofer (variant 1),,Ukr,Vladimir Sviridenko
+150,152,BENET,Romano,,It,,,20.,07.,1998,Kinshofer (variant 1),,Internat.,Romano Benet (It)
+151,153,MEROI,Nives,f,It,6,,20.,07.,1998,Kinshofer (variant 1),,Internat.,Romano Benet (It)
+152,154,ALI,Rozi,,Pak,,,21.,07.,1998,Kinshofer (variant 1),,Internat.,Romano Benet (It)
+153,155,HINKES,Alan,,UK,,,21.,07.,1998,Kinshofer (variant 1),,Internat.,Romano Benet (It)
+
+154,156,LOCK,Andrew,,Aus,25,,21.,07.,1998,Kinshofer (variant 1),Internat.,Romano Benet (It)
+155,157,HAN,Wang-Yong,,SK,,,21.,07.,1998,Kinshofer (variant 1),SK,Hong Ki-Kun
+156,158,KANG,Seong-Gyu,,SK,,,21.,07.,1998,Kinshofer (variant 1),SK,Hong Ki-Kun
+157,159,PARK,Young-Seok,,SK,,,21.,07.,1998,Kinshofer (variant 1),SK,Hong Ki-Kun
+158,160,RA,Kwang-Ju,,SK,,,21.,07.,1998,Kinshofer (variant 1),SK,Hong Ki-Kun
+159,161,KITAMURA,Toshiyuki,,Jp,,,06c,08.,1998,Kinshofer (variant 1),Jp,Toshiyuki Kitamura
+160,162,TANAHASHI,Yasushi,,Jp,,,10.,08.,1998,Kinshofer (variant 1),Jp,Hideki Omiya (†)
+161,163,FRAGA,Luis,,E,,Madrilian,10.,08.,1998,Kinshofer (variant 1),E,Luis Fraga
+162,164,GORDITO,José Isidro,,E,,Madrilian,10.,08.,1998,Kinshofer (variant 1),E,Luis Fraga
+163,165,GUGGEMOS,Peter,,Ger,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+164,166,PORSCHE,Dieter Albin,,Ger,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+165,167,CHRISTENSEN,Allan,,DK,26,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+166,168,GRANLIEN,Mads,,DK,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+167,169,TREMOULIERE,André,,F,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+168,170,VINCENT,Michel,,F,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+169,171,COFMAN,Nicalas,,USA,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+170,172,HASSAN,Asad,,Pak,,,02.,07.,1999,Kinshofer (variant 1),Internat.,Peter Guggemos (Ger)
+171,173,ANG DAWA TAMANG,,,Np,27,,12.,07.,1999,Kinshofer (variant 1),SK,Yoo Han-Kyu
+172,174,UM,Hong-Gil,,SK,,,12.,07.,1999,Kinshofer (variant 1),SK,Yoo Han-Kyu
+173,175,ERÕSS,Zsolt,,Hun,28,,18.,07.,1999,Diamir Face direct (variant 1),Hun,Zsolt Erõss
+174,176,KURAHASHI,Hidetoshi,,Jp,,,27.,07.,1999,Kinshofer (variant 1),Jp,Kazuyoshi Kondo
+175,177,MORI,Shimpei,,Jp,,,27.,07.,1999,Kinshofer (variant 1),Jp,Kazuyoshi Kondo
+176,178,SEINO,Yoshiki,,Jp,,,27.,07.,1999,Kinshofer (variant 1),Jp,Kazuyoshi Kondo
+177,179,IKEDA,Takehiko,,Jp,,,28.,07.,1999,Kinshofer (variant 1),Jp,Kazuyoshi Kondo
+178,180,IÑURRATEGI,Alberto,,E,,Basque,29.,07.,1999,Kinshofer (variant 1),E,Alberto Iñurrategi
+179,181,IÑURRATEGI,Félix,,E,,Basque,29.,07.,1999,Kinshofer (variant 1),E,Alberto Iñurrategi
+180,182,TAMAYO,José-Carlos,,E,,Basque,29.,07.,1999,Kinshofer (variant 1),E,Alberto Iñurrategi
+181,183,KONDO,Kazuyoshi,,Jp,,,29.,07.,1999,Kinshofer (variant 1),Jp,Kazuyoshi Kondo
+182,184,KWON,Oh-Soo,,SK,,,09.,07.,2000,Kinshofer (variant 1),SK,Hong Ki-Kun
+183,185,LEE,Hong-Kil,,SK,,,09.,07.,2000,Kinshofer (variant 1),SK,Hong Ki-Kun
+184,186,LEE,Hwa-Hyeung,,SK,,,09.,07.,2000,Kinshofer (variant 1),SK,Hong Ki-Kun
+185,187,TAKEUCHI,Hirotaka,,Jp,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+186,188,MAYR,Steffen,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+187,189,ALI,Qudrat,,Pak,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+188,190,EMRODIN,,,Pak,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+189,191,DUJMOVITS,Ralf,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+190,192,GROHS,Klaus-Dieter,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+191,193,GUSTAFSSON,Veikka,,SF,29,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+192,194,KRAMER,Dieter,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+193,195,KOCH,Theresia,f,Ger,7,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+194,196,ZARZUELO,Eva,f,E,8,Asturian,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+195,197,PAULS,Ilgvars,,Lat,30,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+196,198,NETZER,Hans-Joachim,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+197,199,FUNFACK,Magnus,,Ger,,,30.,06.,2001,Kinshofer (variant 1),Internat. (Amical),Ralf Dujmovits (Ger)
+198,200,KUNTNER,Christian,,It,,Tyrolean,30.,06.,2001,Kinshofer (variant 1),It (Focus),Christian Kuntner
+199,201,BLANC,Abele,,It,,Aostan,30.,06.,2001,Kinshofer (variant 1),It (Focus),Christian Kuntner
+200,202,ANDRES,Stefan,,It,,Tyrolean,30.,06.,2001,Kinshofer (variant 1),It (Focus),Christian Kuntner
+201,203,URUBKO,Denis,,Kaz,31,,17.,06.,2003,Kinshofer (variant 1),Kazakh Intern.,Maksut Zhumayev
+202,204,ZHUMAYEV,Maksut,,Kaz,,,17.,06.,2003,Kinshofer (variant 1),Kazakh Intern.,Maksut Zhumayev
+203,205,PIVTSOV,Vassili,,Kaz,,,17.,06.,2003,Kinshofer (variant 1),Kazakh Intern.,Maksut Zhumayev
+204,206,CHUMAKHOV,Dmitri,,Kaz,,,17.,06.,2003,Kinshofer (variant 1),Kazakh Intern.,Maksut Zhumayev
+205,207,LAVROV,Sergei,,Kaz,,,18.,06.,2003,Kinshofer (variant 1),Kazakh Intern.,Maksut Zhumayev
+
+206,208,RASPOPOV,Aleksei,,Kaz,,18.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+207,209,LITVINOV,Vassili,,Kaz,,18.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+208,210,BOGOMOLOV,Sergei,,Rus,,18.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+209,211,OTXOA DE OLZA,Iñaki,,E,Basque,20.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+210,212,KALTENBRUNNER,Gerlinde,f,A,9,20.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+211,213,VIESTURS,Edmund,,USA,,23.,06.,2003,Kinshofer (variant 1),,Kazakh Intern.,Maksut Zhumayev
+212,214,LAFAILLE,Jean-Christophe,,F,,23.,06.,2003,Kinshofer (variant 5),,Kazakh Intern.,Maksut Zhumayev
+213,215,BRUGGER,Kurt,,It,,05.,07.,2003,Kinshofer (variant 1),,It,Renzo Corona
+214,216,CORONA,Giampaolo,,It,,05.,07.,2003,Kinshofer (variant 1),,It,Renzo Corona
+215,217,RAINER,Herbert,,A,,18.,06.,2004,Kinshofer (variant 1),,A,Markus Kronthaler
+216,218,WÄRTHL,Michael (Michi),,Ger,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+217,219,STÖCKL,Franz,,Ger,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+218,220,ALI,Sarwar,,Pak,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+219,221,DEMJEN-LERJEN,Michael,,CH,,18.,06.,2004,Kinshofer (variant 1),youngest (18),International,Michael Wärthl (Ger)
+220,222,SPÖRRI,Flurin,,CH,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+221,223,LUNDELL,Michael,,S,32,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+222,224,SCHAFROTH,Michael,,Ger,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+223,225,WOLF,Herbert,,A,,18.,06.,2004,Kinshofer (variant 1),,International,Michael Wärthl (Ger)
+224,226,JUNG,Günter,,Ger,,30.,06.,2004,Kinshofer (variant 1),"oldest (64), died on descent",Ger (Saxon),Christian Walter
+225,227,WALTER,Christian,,Ger,,30.,06.,2004,Kinshofer (variant 1),,Ger (Saxon),Christian Walter
+226,228,WALTER,Markus,,Ger,,30.,06.,2004,Kinshofer (variant 1),,Ger (Saxon),Christian Walter
+227,229,STINGL,Jörg,,Ger,,30.,06.,2004,Kinshofer (variant 1),,Ger (Saxon),Christian Walter
+228,230,GILLIOZ,Laurent,,CH,,27.,06.,2005,Kinshofer (variant 1),,Swiss,André Georges
+229,231,RAZA,Ali,,Pak,,27.,06.,2005,Kinshofer (variant 1),,Swiss,André Georges
+230,232,JAROŠ,Radek,,Cz,,28.,06.,2005,Kinshofer (variant 1),,Czech,Pavel Matoušek
+231,233,KIM,Chang-Ho,,SK,,14.,07.,2005,Rupal Face direct (variant),,South Korean,Lee Sung-Won
+232,234,LEE,Hyun-Jo,,SK,,14.,07.,2005,Rupal Face direct (variant),,South Korean,Lee Sung-Won
+233,235,BOUCHET,Gilles Sere,,F,,15.,07.,2005,Kinshofer (variant 1),,Spanish/French,Jorge Egocheaga (Spain)
+234,236,DE CHOUDENS (b OLLAGNIER),Sandrine,f,F,,15.,07.,2005,Kinshofer (variant 1),,Spanish/French,Jorge Egocheaga (Spain)
+235,237,EGOCHEAGA,Jorge,,E,Asturian,15.,07.,2005,Kinshofer (variant 1),,Spanish/French,Jorge Egocheaga (Spain)
+236,238,IIZUKA,Toshihiro,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+237,239,KENMOCHI,Noriyuki,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+238,240,NAKAMURA,Kazusada,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+239,241,SUNAGA,Shunsuke,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+240,242,TANABE,Osamu,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+241,243,YOSHIDA,Hideki,,Jp,,16.,07.,2005,Kinshofer (variant 1),,Japanese,Noriyuki Kenmochi
+242,244,BEREZIARTUA,Jesús (Josu),,E,Basque (G),20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+243,245,CHAPUISAT,Marianne,f,CH,10,20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+244,246,HASSAN JAN,,1,Pak,,20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+245,247,MONDINELLI,Silvio (Gnaro),,It,,20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+246,248,PASABAN,Edurne,f,E,Basque (G),20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+247,249,SABADELL,Esther,f,E,Catalan,20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+248,250,VALLEJO,Iván,,Ecu,33,20.,07.,2005,Kinshofer (variant 1),,International,"Edurne Pasaban (f, Spain)"
+249,251,CONSTANTIN,Bernard,,F,,20.,07.,2005,Kinshofer (variant 1),,French,Philippe Arvis
+250,252,D'AUBARÈDE,Hugues,,F,,20.,07.,2005,Kinshofer (variant 1),,French,Philippe Arvis
+251,253,DOMBES,Georges,,F,,20.,07.,2005,Kinshofer (variant 1),,French,Philippe Arvis
+252,254,KARIM,Mehrban,,Pak,,20.,07.,2005,Kinshofer (variant 1),,French,Philippe Arvis
+253,255,MOHAMMAD,Qurban,,Pak,,20.,07.,2005,Kinshofer (variant 1),,French,Philippe Arvis
+254,256,HUARTE,Javier,,E,Basque (N),20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+255,257,MARTÍNEZ,Raúl,,E,Aragonese,20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+256,258,ORVIZ,Ignacio (Nacho),,E,Asturian,20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+257,259,PAUNER,Carlos,,E,Aragonese,20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+
+258,260,PÉREZ,Miguel Ángel,,E,Castilian (L),20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+259,261,RAMOS,Martín,,E,Castilian (L),20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+260,262,VALENCIA,Ricardo,,E,Basque (N),20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+261,263,VILLALTA,José,,E,Aragonese,20.,07.,2005,Kinshofer (variant 1),,Spanish,Carlos Pauner
+262,264,GONZÁLEZ-RUBIO,Fernando (Fercho),,Col,34,20.,07.,2005,Kinshofer (variant 1),,Colombian,Fernando González-Rubio
+263,265,ANDERSON,Vinson (Vince),,USA,,06.,09.,2005,Rupal Face C Pillar,,American,Steven House
+264,266,HOUSE,Steven,,USA,,06.,09.,2005,Rupal Face C Pillar,,American,Steven House
+265,267,BOYANOV,Doychin Vencislavov,,Bul,,08.,07.,2006,Kinshofer (variant 1),,Bulgarian,Nikolay Petkov
+266,268,PETKOV,Nikolay Mihaylov,,Bul,,08.,07.,2006,Kinshofer (variant 1),,Bulgarian,Nikolay Petkov
+267,269,KOO,Eun-Soo,,SK,,08.,07.,2006,Kinshofer (variant 1),,South Korean,Yu Jin-Kyung
+268,270,DELGADO,José Antonio,,Ven,35,11.,07.,2006,Kinshofer (variant 1),died on descent,Venezuelan,José Antonio Delgado
+269,271,HÁMOR,Peter,,Slk,,15.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+270,272,KOPOLD,Jozef (Dodo),,Slk,,15.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+271,273,MORAWSKI,Piotr,,Pl,,15.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+272,274,BARANOWSKA,Kinga,f,Pl,,18.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+273,275,GABLÍK,Martin,,Slk,,18.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+274,276,ROJO,Roberto (Gorri),,E,Basque (A),18.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+275,277,SUCHÝ,Anton,,Slk,,18.,07.,2007,Kinshofer (variant 1),,International,Piotr Morawski (Pl)
+276,278,GARCÍA-HUIDOBRO,Cristián,,Chl,36,18.,07.,2007,Kinshofer (variant 1),,Chilean,Carlos Bascu
+277,279,GUTIÉRREZ,Pablo,,Chl,,18.,07.,2007,Kinshofer (variant 1),,Chilean,Carlos Bascu
+278,280,OLIVARES,Ernesto,,Chl,,18.,07.,2007,Kinshofer (variant 1),,Chilean,Carlos Bascu
+279,281,ÁLVAREZ,Luis Wolfgang,,Chl,,18.,07.,2007,Kinshofer (variant 1),,Chilean,Luis Álvarez
+280,282,JONQUERA,Andrés,,Chl,,18.,07.,2007,Kinshofer (variant 1),,Chilean,Luis Álvarez
+281,283,KAGAN,Vladislav,,Blr,37,19.,07.,2007,Kinshofer (variant 1),,Belorussian,Aleksandr Godlevsky
+282,284,LUTOV,Anatoli,,Blr,,19.,07.,2007,Kinshofer (variant 1),,Belorussian,Aleksandr Godlevsky
+283,285,MELNIKOV,Mikhail,,Blr,,19.,07.,2007,Kinshofer (variant 1),,Belorussian,Aleksandr Godlevsky
+284,286,STATSEVICH,Sergei,,Blr,,19.,07.,2007,Kinshofer (variant 1),,Belorussian,Aleksandr Godlevsky
+285,287,BRUN,Nicolas,,F,,19.,07.,2007,Kinshofer (variant 1),,French,Jean-Noël Urban
+286,288,ALI,Mohammad III,1,Pak,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+287,289,ALI SHER,Nisar Hussain,,Pak,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+288,290,NARDI,Daniele,,It,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+289,291,PANZERI,Mario,,It,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+290,292,PIRCHER,Rainer,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+291,293,STRENG,Thomas,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Rainer Pircher
+292,294,GREHER,Jürgen,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+293,295,HÜBSCHENBERGER,Florian,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+294,296,LUNGER,Josef,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+295,297,SÖLL,Helga,f,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+296,298,STITZINGER,Luis,,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+297,299,VON MELLE,Alix,f,Ger,,21.,06.,2008,Kinshofer (variant 1),,German,Luis Stitzinger
+298,300,ABOLHASSANI,Hossein,,Irn,38,17.,07.,2008,Kinshofer (variant 1),,Iranian,Leyla Esfandirari (f)
+299,301,AGHDAIE,Sahand,,Irn,,17.,07.,2008,Kinshofer (variant 1),,Iranian,Leyla Esfandirari (f)
+300,302,ESFANDIARY,Leila,f,Irn,11,17.,07.,2008,Kinshofer (variant 1),,Iranian,Leyla Esfandirari (f)
+301,303,FARIDYAN,Kazem Zabihi,,Irn,,17.,07.,2008,Kinshofer (variant 1),,Iranian,Leyla Esfandirari (f)
+302,304,PARTOVINIA,Amirhossein,,Irn,,17.,07.,2008,Kinshofer (variant 1),,Iranian,Leyla Esfandirari (f)
+303,305,DAWA WANGCHUK,,,Np/Sh,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Oh-Eun-Sun (f)
+304,306,PEMA TSHERING I,,,Np/Sh,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Oh-Eun-Sun (f)
+305,307,GARCIA,João,,Por,39,10.,07.,2009,Kinshofer (variant 1),,Portuguese,João Garcia
+306,308,WENZL,Hans,,A,,10.,07.,2009,Kinshofer (variant 1),,International,Gerfried Göschl (A)
+307,309,OH,Eun-Sun,f,SK,12,10.,07.,2009,Kinshofer (variant 1),,South Korean,Oh-Eun-Sun (f)
+308,310,ULLAH,Amin,,Pak,,10.,07.,2009,Kinshofer (variant 1),,Portuguese,João Garcia
+,311,ALI,Mohammad III,2,Pak,,10.,07.,2009,Kinshofer (variant 1),,Portuguese,João Garcia
+
+309,312,ALLAN,Alexander (Sandy),,UK,,10.,07.,2009,Kinshofer (variant 1),,International,Gerfried Göschl (A)
+310,313,ALLEN,Richard (Rick),,UK,,10.,07.,2009,Kinshofer (variant 1),,International,Gerfried Göschl (A)
+311,314,KÖLBLINGER,Wolfgang,,A,,10.,07.,2009,Kinshofer (variant 1),died on descent,International,Gerfried Göschl (A)
+312,315,GO,Mi-Sun (Mi-Young),f,SK,,10.,07.,2009,Kinshofer (variant 1),died on descent,South Korean,Kim Jae-Soo
+313,316,KIM,Jae-Soo,,SK,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+314,317,YUN,Chi-Won,,SK,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+315,318,SONA,,,Np/Sh,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+316,319,TSHERING DORJE a,,,Np/Sh,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+,320,HASSAN JAN,,2,Pak,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+317,321,MEHDI,Ghulam,,Pak,,10.,07.,2009,Kinshofer (variant 1),,South Korean,Kim Jae-Soo
+318,322,GÖSCHL,Gerfried,,A,,11.,07.,2009,NW Buttress (Diamir),,International,Gerfried Göschl (A)
+319,323,ROUSSEAU,Louis,,Can,40,11.,07.,2009,NW Buttress (Diamir),,International,Gerfried Göschl (A)
+320,324,BACHMAIR,Josef (Sepp),,A,,11.,07.,2009,NW Buttress (Diamir),,International,Gerfried Göschl (A)
+321,325,GOGER,Johann (Hans),,A,,11.,07.,2009,NW Buttress (Diamir),,International,Gerfried Göschl (A)
+322,326,SCHÜTTER,Herbert,,A,,11.,07.,2009,Kinshofer (variant 1),,International,Gerfried Göschl (A)
+,,,,,,Kinshofer route = Diamir Face (left),,,,,,,
+© Eberhard Jurgalski for 8000ers.com,,,,,,Schell route = SW Ridge of Rupal Face,,,,,,,
