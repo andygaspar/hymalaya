@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 df=pd.read_csv("data/himalayan_csv/exped.csv",sep=",")
 peaks=pd.read_csv("data/himalayan_csv/peaks.csv",sep=",")
 
+done
 
 
 monte=dict(zip(peaks["name"],peaks["peak_id"]))
