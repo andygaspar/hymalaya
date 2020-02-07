@@ -18,3 +18,9 @@ df=dm.make_df()
 
 #usare la funzione search
 dm.search("ann",df)
+
+print(df["peak"])
+
+
+everest=df[df["peak id"]=="EVER"]
+print(everest["peak"])
