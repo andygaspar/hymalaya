@@ -1,4 +1,4 @@
-expedition,peak_id,year,season,host_country,route,nation,sponsor,success,other_countries,summit time,summit duration,expedition duration,ending cause,members,member summit,members died,sherpas,sherpas summit,sherpas died,sherpas free,o2,o2 missing data,agency,commercial route,standard route
+expedition,peak id,year,season,host country,route,nation,sponsor,success,other countries,summit time,summit duration,expedition duration,ending cause,members,member summit,members died,sherpas,sherpas summit,sherpas died,sherpas free,o2,o2 missing data,agency,commercial route,standard route
 ANN260101,ANN2,1960,1,1,NW Ridge-W Ridge,UK,,VERO,"India, Nepal",1530,63,0,1,10,2,0,9,1,0,FALSO,VERO,FALSO,,,
 ANN269301,ANN2,1969,3,1,NW Ridge-W Ridge,Yugoslavia,Mountaineering Club of Slovenia,VERO,,1800,27,31,1,10,2,0,0,0,0,FALSO,FALSO,FALSO,,,
 ANN273101,ANN2,1973,1,1,W Ridge-N Face,Japan,Sangaku Doshikai Annapurna II Expedition 1973,VERO,,2030,51,0,1,6,1,0,8,0,0,FALSO,FALSO,FALSO,,,
@@ -2545,7 +2545,7 @@ GYAC64101,GYAC,1964,1,1,W Face-NW Ridge,Japan,All Japan Himalayan Expedition (Na
 EVER64101,EVER,1964,1,2,N Col-NE Ridge (training),China,,FALSO,,,0,0,14,20,0,1,60,0,0,FALSO,FALSO,VERO,,VERO,VERO
 EVER63101,EVER,1963,1,1,S Col-SE Ridge,USA,American Mount Everest Expedition 1963,VERO,UK,1300,41,65,1,20,5,1,40,1,0,FALSO,VERO,FALSO,,FALSO,
 TAKP63301,TAKP,1963,3,1,,Japan,Northwest Nepal Scientific Research Exp of Hokkaido Univ,FALSO,,,0,0,12,6,0,0,0,0,0,VERO,FALSO,FALSO,,,
-SPHU63301,SPHU,1963,3,1,E side,Japan,Tokyo-Osaka University Joint Himalayan Expedition,FALSO,,1330,10,16,1,11,10,0,4,4,0,FALSO,FALSO,FALSO,,,
+SPHU63301,SPH1,1963,3,1,E side,Japan,Tokyo-Osaka University Joint Himalayan Expedition,FALSO,,1330,10,16,1,11,10,0,4,4,0,FALSO,FALSO,FALSO,,,
 LANG63301,LANG,1963,3,1,E Ridge,Italy,,FALSO,,,0,0,6,10,0,2,3,0,0,FALSO,FALSO,FALSO,,,
 SAIP63301,SAIP,1963,3,1,S Ridge,Japan,Doshisha Himalayan Expedition,VERO,,1205,24,34,1,6,1,0,5,1,0,FALSO,FALSO,FALSO,,,
 PK2963301,PK29,1963,3,1,E Ridge,Japan,Japanese Himalaya Expedition of Osaka University 1963,FALSO,,,18,0,10,5,0,0,4,0,0,FALSO,FALSO,FALSO,,,
