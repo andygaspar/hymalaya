@@ -54,7 +54,15 @@ def make_df():
 
         se vuoi effettivamente cambiare l'ordine se puoi fallo in questa funzione, prima del return, poi pusha così
         lavoriamo sullo stesso dataframe
+
+
     """
+    pippo=df["agency"].to_numpy().astype(str)
+    pippo=np.where(pippo=='nan','not_com',pippo)
+    pippo=np.where(pippo=='None','not_com',pippo)
+    pippo=np.where(pippo=='None (went direct to Tibet?)','not_com',pippo)
+    pippo=np.where(pippo=='None (permit arranged directly with TMA)','not_com',pippo)
+    np.unique(pippo)
 
     return df
 

@@ -1,28 +1,27 @@
-NAME,FIRST NAME,TRIBE,,NAT.,,D,M,Y,ROUTE,CAUSE,
-1,BREGAR,Drago,,,SLO,10.,07.,1977,SW Face to SW Ridge,Disappearance,
-2,GHULAM MUHAMMAD,Ali,,,PAK,31.,05.,1986,NW Face,Pneumonia,
-3,BÜHRER,Andreas,,,CH,18.,08.,1986,NW Face (German variant),Fall,x
-4,KHAN,Khalid,,,PAK,29.,07.,1987,Japanese Couloir,Avalanche,
-5,unnamed,,,,PAK,29.,07.,1987,Japanese Couloir,Avalanche,
-6,unnamed,,,,PAK,29.,07.,1987,Japanese Couloir,Avalanche,
-7,unnamed,,,,PAK,29.,07.,1987,Japanese Couloir,Avalanche,
-8,BRITO,Jorge Luis,,,MEX,25.,06.,1988,Japanese Couloir,Pulmonary edema,
-9,TSINDI DORJE,,,Sherpa,NEP,12.,07.,1989,Japanese Couloir,Fall,x
-10,GRANYÓ,Josep,,Catalan,E,19.,08.,1990,NW Face (German variant),Disappearance,
-11,IBÁÑEZ,Albert,,Catalan,E,19.,08.,1990,NW Face (German variant),Disappearance,
-12,BERNASCONE,Paolo,,,ITA,30.,05.,1993,W Ridge - NW Face (variant),Slab Avalanche (below Camp I),
-13,ÁLVAREZ,Manuel,,Asturian,E,17.,07.,1996,Japanese Couloir,Fall (between Camp III and Camp II),x
-14,KUTAMA,Kazunori,,,JAP,?01.,08.,1998,Japanese Couloir,Avalanche,
-15,WATANABE,Takashi,,,JAP,?01.,08.,1998,Japanese Couloir,Avalanche,
-16,HAYOSHIDA,Yoshiumi,,,JAP,?01.,08.,1998,Japanese Couloir,Avalanche,
-17,NAITO,Kazutoshi,,,JAP,?01.,08.,1998,Japanese Couloir,Avalanche,
-18,GALVEZ,Claudio,,,CHL,09.,07.,2001,Japanese Couloir,Fall,
-19,SILVESTRINI,Nancy Noemi,f,,ARG,05.,07.,2003,Japanese Couloir,Disappearance,x
-20,BUENAGA,José Manuel,,Asturian,E,05.,07.,2003,Japanese Couloir,Disappearance,x
-21,PESTRIKOV,Vladimír,,,UKR,15.,07.,2003,Japanese Couloir,Stone fall,
-22,ORAZ,Mohammad,,,IRN,07.,09.,2003,Japanese Couloir,"Avalanche caused injuries, died in hospital",
-23,ANTON,José Antonio,,Valencian,E,25.,07.,2004,Japanese Couloir,Fall,x
-24,DAWA NURBU II,,,Sherpa,NEP,05.,08.,2005,Japanese Couloir,Fall,x
-25,DANĚK,Jiří,,,CZE,29.,07.,2007,Japanese Couloir,Fall,
-26,URBAN,Jean-Noël,,,F,18.,06.,2008,Japanese Couloir,Fall in Crevasse,
-© Eberhard Jurgalski for 8000ers.com,,,,,,,,,,,
+NAME,FIRST NAME,TRIBE,,NAT,,date,month,year,ROUTE,CAUSE,
+1,BREGAR,Drago,,,SLO,10,7,1977,SW Face to SW Ridge,Disappearance,
+2,GHULAM MUHAMMAD,Ali,,,PAK,31,5,1986,NW Face,Pneumonia,
+3,BÜHRER,Andreas,,,CH,18,8,1986,NW Face (German variant),Fall,x
+4,KHAN,Khalid,,,PAK,29,7,1987,Japanese Couloir,Avalanche,
+5,unnamed,,,,PAK,29,7,1987,Japanese Couloir,Avalanche,
+6,unnamed,,,,PAK,29,7,1987,Japanese Couloir,Avalanche,
+7,unnamed,,,,PAK,29,7,1987,Japanese Couloir,Avalanche,
+8,BRITO,Jorge Luis,,,MEX,25,6,1988,Japanese Couloir,Pulmonary edema,
+9,TSINDI DORJE,,,Sherpa,NEP,12,7,1989,Japanese Couloir,Fall,x
+10,GRANYÓ,Josep,,Catalan,E,19,8,1990,NW Face (German variant),Disappearance,
+11,IBÁÑEZ,Albert,,Catalan,E,19,8,1990,NW Face (German variant),Disappearance,
+12,BERNASCONE,Paolo,,,ITA,30,5,1993,W Ridge - NW Face (variant),Slab Avalanche (below Camp I),
+13,ÁLVAREZ,Manuel,,Asturian,E,17,7,1996,Japanese Couloir,Fall (between Camp III and Camp II),x
+14,KUTAMA,Kazunori,,,JAP,1,8,1998,Japanese Couloir,Avalanche,
+15,WATANABE,Takashi,,,JAP,1,8,1998,Japanese Couloir,Avalanche,
+16,HAYOSHIDA,Yoshiumi,,,JAP,1,8,1998,Japanese Couloir,Avalanche,
+17,NAITO,Kazutoshi,,,JAP,1,8,1998,Japanese Couloir,Avalanche,
+18,GALVEZ,Claudio,,,CHL,9,7,2001,Japanese Couloir,Fall,
+19,SILVESTRINI,Nancy Noemi,f,,ARG,5,7,2003,Japanese Couloir,Disappearance,x
+20,BUENAGA,José Manuel,,Asturian,E,5,7,2003,Japanese Couloir,Disappearance,x
+21,PESTRIKOV,Vladimír,,,UKR,15,7,2003,Japanese Couloir,Stone fall,
+22,ORAZ,Mohammad,,,IRN,7,9,2003,Japanese Couloir,"Avalanche caused injuries, died in hospital",
+23,ANTON,José Antonio,,Valencian,E,25,7,2004,Japanese Couloir,Fall,x
+24,DAWA NURBU II,,,Sherpa,NEP,5,8,2005,Japanese Couloir,Fall,x
+25,DANĚK,Jiří,,,CZE,29,7,2007,Japanese Couloir,Fall,
+26,URBAN,Jean-Noël,,,F,18,6,2008,Japanese Couloir,Fall in Crevasse,
