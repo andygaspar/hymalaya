@@ -62,7 +62,7 @@ def make_df():
     pippo=np.where(pippo=='None','not_com',pippo)
     pippo=np.where(pippo=='None (went direct to Tibet?)','not_com',pippo)
     pippo=np.where(pippo=='None (permit arranged directly with TMA)','not_com',pippo)
-    np.unique(pippo)
+    df["commercial"]=(pippo!='not_com')
 
     return df
 
