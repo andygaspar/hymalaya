@@ -38,6 +38,10 @@ def make_df():
         df["host country"]=np.where((df["host country"] == key),host_country[key],df["host country"])
 
 
+    df["tot people"]=df["members"]+df["sherpas"]
+    df["tot death"]= df["members died"]+df["sherpas died"]
+
+
 
     boolean={"VERO":True,"FALSO":False}
     for key in boolean.keys():
@@ -46,25 +50,127 @@ def make_df():
         df["o2"]=np.where((df["o2"] == key),boolean[key],df["o2"])
         df["o2 missing data"]=np.where((df["o2 missing data"] == key),boolean[key],df["o2 missing data"])
 
-    """
-        questo è il comando per riordinare le colonne
-        df=df[ [ nome_prima_colonna, nome_seconda_colonna,.... ] ]
 
-        ricordati che con df.columns stampi i nomi delle colonne (nel caso tu abbia bisogno di vederli)
+    commercial=df["agency"].to_numpy().astype(str)
+    commercial=np.where(commercial=='nan','not_com',commercial)
+    commercial=np.where(commercial=='None','not_com',commercial)
+    commercial=np.where(commercial=='None (went direct to Tibet?)','not_com',commercial)
+    commercial=np.where(commercial=='None (permit arranged directly with TMA)','not_com',commercial)
+    df["commercial"]=(commercial!='not_com')
 
-        se vuoi effettivamente cambiare l'ordine se puoi fallo in questa funzione, prima del return, poi pusha così
-        lavoriamo sullo stesso dataframe
+
+    # compute success on other routes
+    success=pd.read_csv("data/himalayan_csv/success.csv",sep=",")
+    boolean={"VERO":True,"FALSO":False}
+    for key in boolean.keys():
+        success["sr2"]=np.where((success["sr2"] == key),boolean[key],success["sr2"])
+        success["sr3"]=np.where((success["sr3"] == key),boolean[key],success["sr3"])
+        success["sr4"]=np.where((success["sr4"] == key),boolean[key],success["sr4"])
 
 
-    """
-    pippo=df["agency"].to_numpy().astype(str)
-    pippo=np.where(pippo=='nan','not_com',pippo)
-    pippo=np.where(pippo=='None','not_com',pippo)
-    pippo=np.where(pippo=='None (went direct to Tibet?)','not_com',pippo)
-    pippo=np.where(pippo=='None (permit arranged directly with TMA)','not_com',pippo)
-    df["commercial"]=(pippo!='not_com')
+    new_success=[]
+    for i in range(df.shape[0]):
+        if success.iloc[i]["sr2"]==True or success.iloc[i]["sr3"]==True\
+         or success.iloc[i]["sr4"]==True or df.loc[i]["success"]==True:
+            new_success.append(True)
+        else:
+            new_success.append(False)
 
-    return df
+    df["success"]=new_success
+
+    #make 8000
+
+
+    ottomila=df[df["height"]>=8000].copy(deep=True)
+    ottomila["peak"].unique()
+
+    ev=['Everest']
+    lo=['Lhotse','Lhotse Shar','Lhotse Middle']
+    kan=[ 'Kangchenjunga','Kangchenjunga Central','Kangchenjunga South', 'Yalung Kang']
+    ann=['Annapurna I East','Annapurna I Middle','Annapurna I']
+    mak=['Makalu']
+    cho=['Cho Oyu']
+    man=['Manaslu']
+    dha=['Dhaulagiri I']
+
+    main_peak=[]
+    for peak in ottomila["peak"]:
+        if peak in ev:
+            main_peak.append("Everest")
+        if peak in lo:
+            main_peak.append("Lhotse")
+        if peak in kan:
+            main_peak.append("Kangchenjunga")
+        if peak in ann:
+            main_peak.append("Annapurna")
+        if peak in mak:
+            main_peak.append("Makalu")
+        if peak in cho:
+            main_peak.append("Cho Oyu")
+        if peak in man:
+            main_peak.append("Manaslu")
+        if peak in dha:
+            main_peak.append("Dhaulagiri")
+
+    ottomila["main peak"]=np.array(main_peak).copy()
+
+
+
+    #raggruppati
+    ann=['Annapurna I','Annapurna I East','Annapurna I Middle','Annapurna II',\
+    'Annapurna III','Annapurna IV','Annapurna South','Gangapurna','Gangapurna West']
+    kan=[ 'Kangchenjunga','Kangchenjunga Central','Kangchenjunga South', \
+    'Yalung Kang','Kangbachen']
+    dha =['Dhaulagiri I','Dhaulagiri II','Dhaulagiri III','Dhaulagiri IV',\
+    'Dhaulagiri V','Dhaulagiri VI','Putha Hiunchuli','Churen Himal Central',\
+     'Churen Himal East', 'Churen Himal West','Gurja Himal']
+    lo=['Lhotse','Lhotse Shar','Lhotse Middle']
+    mak=['Makalu','Makalu II']
+    cho=['Cho Oyu']
+    man=['Manaslu', 'Manaslu North']
+    ev= ["Everest"]
+
+
+    df_rag=df.copy(deep=True)
+
+    new_peak=[]
+    is_ottomila=[]
+    for peak in df_rag["peak"]:
+        if peak in ev:
+            new_peak.append( "Everest")
+            is_ottomila.append(True)
+        if peak in lo:
+            new_peak.append( "Lhotse")
+            is_ottomila.append(True)
+        if peak in kan:
+            new_peak.append( "Kangchenjunga")
+            is_ottomila.append(True)
+        if peak in ann:
+            new_peak.append( "Annapurna")
+            is_ottomila.append(True)
+        if peak in mak:
+            new_peak.append( "Makalu")
+            is_ottomila.append(True)
+        if peak in cho:
+            new_peak.append( "Cho Oyu")
+            is_ottomila.append(True)
+        if peak in man:
+            new_peak.append( "Manaslu")
+            is_ottomila.append(True)
+        if peak in dha:
+            new_peak.append( "Dhaulagiri")
+            is_ottomila.append(True)
+        if peak not in (ann+kan+dha+lo+mak+cho+man+ev):
+            new_peak.append(peak)
+            is_ottomila.append(False)
+
+
+    df_rag["peak"]=new_peak
+    df_rag["ottomila"]=is_ottomila
+
+
+    return df, ottomila, df_rag
+
 
 
 
@@ -82,3 +188,17 @@ def search(mount_prefix,df):
             words.append(peak)
 
     return words
+
+
+
+def com_not_com(df):
+    commercial=[]
+    not_commercial=[]
+    for year in np.unique(df["year"]):
+        pippo=df[(df["year"]==year)]
+        pippo=pippo[pippo["commercial"]==True]
+        commercial.append(pippo.shape[0])
+        pippo=df[(df["year"]==year)]
+        pippo=pippo[pippo["commercial"]==False]
+        not_commercial.append(pippo.shape[0])
+    return np.array(commercial),np.array(not_commercial)
