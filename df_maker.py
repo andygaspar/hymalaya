@@ -2,6 +2,15 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+def compare(lista_vie,sub_lista):
+    new_bool=[]
+    for via in lista_vie:
+        if str(via) in sub_lista:
+            new_bool.append(True)
+        else:
+            new_bool.append(False)
+    return new_bool
+
 
 def make_df():
 
@@ -52,6 +61,11 @@ def make_df():
 
     df["sherpas free"]=(df["sherpas"]==0)
 
+    new_bool=df["standard route"]
+    new_bool=np.where(new_bool=='VERO',True,new_bool)
+    new_bool=np.where(new_bool=='FALSO',False,new_bool)
+    df["standard route"]=new_bool
+
     commercial=df["agency"].to_numpy().astype(str)
     commercial=np.where(commercial=='nan','not_com',commercial)
     commercial=np.where(commercial=='None','not_com',commercial)
@@ -78,6 +92,9 @@ def make_df():
             new_success.append(False)
 
     df["success"]=new_success
+
+
+
 
     #make 8000
 
@@ -183,6 +200,16 @@ def make_df():
 
     df["sponsored"]=np.array(sponsor)
     ever=df[df["peak"]=="Everest"].copy(deep=True)
+
+
+    std_route=np.array(["S Col (skiing)","S Col (recon)","S Col","N Col-N Face",\
+    "SE Col-SE Ridge","SE Col-SE Ridge","S Col_SE Ridge",'S Col-SE Ridge',\
+    'S Col-SE Ridge (to 7400m)'])
+    route=ever["route"].copy(deep=True)
+    st=np.where(compare(route,std_route),True,ever["standard route"])
+    ever["standard route"]=st
+    ever["standard route"]=np.where(ever["route"]=='N Col-N Face',False,ever["standard route"])
+
 
 
     return df, ottomila, df_rag, ever

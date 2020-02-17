@@ -89,11 +89,3 @@ ag[ag["sherpas free"]==True].shape
 
 
 #*******************************************
-
-ever[(ever["standard route"]==True) & (ever["route"]!="S Col-SE Ridge")]
-
-
-
-
-sorted(ever["route"].unique().astype(str))
-ever[ever["route"].astype(str)=="nan"]
