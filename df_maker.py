@@ -50,6 +50,7 @@ def make_df():
         df["o2"]=np.where((df["o2"] == key),boolean[key],df["o2"])
         df["o2 missing data"]=np.where((df["o2 missing data"] == key),boolean[key],df["o2 missing data"])
 
+    df["sherpas free"]=(df["sherpas"]==0)
 
     commercial=df["agency"].to_numpy().astype(str)
     commercial=np.where(commercial=='nan','not_com',commercial)
@@ -168,8 +169,23 @@ def make_df():
     df_rag["peak"]=new_peak
     df_rag["ottomila"]=is_ottomila
 
+    #boolean sponsored
+    sponsor=[]
 
-    return df, ottomila, df_rag
+    for sp in df["sponsor"]:
+        if type(sp)==float:
+            if np.isnan(sp):
+                sponsor.append(False)
+            else:
+                print(sp)
+        else:
+            sponsor.append(True)
+
+    df["sponsored"]=np.array(sponsor)
+    ever=df[df["peak"]=="Everest"].copy(deep=True)
+
+
+    return df, ottomila, df_rag, ever
 
 
 

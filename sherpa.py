@@ -5,237 +5,95 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 
 
-df, ottomila, df_rag=dm.make_df()
+df, ottomila, df_rag, ever =dm.make_df()
 
 mpl.rcParams["figure.figsize"] = (10,7)
 
 
 #assoluti *************************************
 
+ever.sort_values("year",ascending=False,inplace=True)
 
 
 tot_people= sum(df["tot people"])
 tot_died= sum(df["tot death"])
 
-#frequentazione
-
-freq=dict()
-for peak in df["peak"].unique():
-    freq[peak]=sum(df[df["peak"]==peak]["tot people"])
-
-ordered={k: v for k, v in sorted(freq.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-# morti
-
-df.sort_values("tot death",ascending=False).iloc[:20]
-
-freq=dict()
-for peak in df["peak"].unique():
-    freq[peak]=sum(df[df["peak"]==peak]["tot death"])
-
-ordered={k: v for k, v in sorted(freq.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-# morti relativi
-
-
-freq=dict()
-for peak in df["peak"].unique():
-    freq[peak]=sum(df[df["peak"]==peak]["tot death"])/sum(df[df["peak"]==peak]["tot people"])
-
-ordered={k: v for k, v in sorted(freq.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-
-
-
-
-
-#8000 **********************************************
-
-ottomila_death=sum(ottomila["tot death"])
-ever=ottomila[ottomila["peak"]=="Everest"]
-print(tot_died, ottomila_death, sum(ever["tot death"]))
-
-
-# assoluti
-peak_death=dict()
-for peak in ottomila["peak"].unique():
-    peak_death[peak]= sum(ottomila[ottomila["peak"]==peak]["tot death"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-# relativi
-peak_death=dict()
-for peak in ottomila["peak"].unique():
-    peak_death[peak]= sum(ottomila[ottomila["peak"]==peak]["tot death"])\
-    /sum(ottomila[ottomila["peak"]==peak]["tot people"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-
-
-#raggruppati ***********************************
-ottomila.shape
-ott=df_rag[df_rag["ottomila"]==True]
-ott.shape[0]
-ott_death=sum(ott["tot death"])
-ever=ott[ott["peak"]=="Everest"]
-print(tot_died, ott_death, sum(ever["tot death"]))
-
-
-# assoluti
-peak_death=dict()
-for peak in ott["peak"].unique():
-    peak_death[peak]= sum(ott[ott["peak"]==peak]["tot death"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-# relativi
-peak_death=dict()
-for peak in ott["peak"].unique():
-    peak_death[peak]= sum(ott[ott["peak"]==peak]["tot death"])\
-    /sum(ott[ott["peak"]==peak]["tot people"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-
-# success death ***********
-succ=df[df["success"]==True]
-
-# assoluti
-people_success=dict()
-for peak in succ["peak"].unique():
-    tot_success=sum(succ[succ["peak"]==peak]["member summit"]+succ[succ["peak"]==peak]["sherpas summit"])
-    people_success[peak]= tot_success
-
-ordered={k: v for k, v in sorted(people_success.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-# relativi
-peak_death=dict()
-for peak in succ["peak"].unique():
-    peak_death[peak]= sum(succ[succ["peak"]==peak]["tot death"])\
-    /sum(succ[succ["peak"]==peak]["member summit"]+succ[succ["peak"]==peak]["sherpas summit"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-
-
-
-#raggruppati  success***********************************
-ottomila.shape
-ott=df_rag[df_rag["ottomila"]==True]
-ott=ott[ott["success"]==True]
-ott.shape[0]
-ott_death=sum(ott["tot death"])
-ever=ott[ott["peak"]=="Everest"]
-print(tot_died, ott_death, sum(ever["tot death"]))
-
-
-people_success=dict()
-for peak in ott["peak"].unique():
-    tot_ottess=sum(ott[ott["peak"]==peak]["member summit"]+ott[ott["peak"]==peak]["sherpas summit"])
-    people_success[peak]= tot_ottess
-
-ordered={k: v for k, v in sorted(people_success.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-# relativi
-peak_death=dict()
-for peak in ott["peak"].unique():
-    peak_death[peak]= sum(ott[ott["peak"]==peak]["tot death"])\
-    /sum(ott[ott["peak"]==peak]["member summit"]+ott[ott["peak"]==peak]["sherpas summit"])
-
-ordered={k: v for k, v in sorted(peak_death.items(), key=lambda item: item[1],reverse=True)}
-ordered
-
-
-
-
-
-
-
-
-
-#sherpas *****************************
-
-
-climbers = sum(df["members"])
-sherpas = sum(df["sherpas"])
-
-
-print(tot_people, climbers, sherpas)
-
-
-climbers_died= sum(df["members died"])
-sherpas_died = sum(df["sherpas died"])
-
-print(tot_died, climbers_died, sherpas_died)
-
-tot=[]
-cl=[]
-sh=[]
-df_ever=df[df["peak"]=="Everest"]
-years=np.sort(df_ever["year"].unique())
-years
+def print_stats():
+    print("Global Himalaya\n")
+    print("Tot people ",tot_people)
+    print("Tot died ",tot_died)
+    print("Death rate %.2f" % (tot_died/tot_people))
+    print("\nSherpas rate %.2f" % (sum(df["sherpas"])/tot_people))
+    print("Sherpas death rate %.2f" % (sum(df["sherpas died"])/tot_died))
+
+    print("\n\nEverest\n")
+    print("Everest global death rate %.2f" % (sum(ever["tot death"])/sum(ever["tot people"])))
+    print("sherpas rate %.2f" % (sum(ever["sherpas"])/sum(ever["tot people"])))
+    print("Sherpas death rate %.2f" % (sum(ever["sherpas died"])/sum(ever["tot death"])))
+
+    ever_sh=ever[ever["sherpas free"]==False].sort_values("year",ascending=False)
+    print("\nEverest exp with sherpas")
+    print("Sherpas rate %.2f" % (sum(ever_sh["sherpas"])/sum(ever_sh["tot people"])))
+    print("Sherpas death rate %.2f" % (sum(ever_sh["sherpas died"])/sum(ever_sh["tot death"])))
+
+    print("\nRate of Everest commercial exp whitout sherpas %.2f" %\
+     (ever[(ever["commercial"]==True) & (ever["sherpas free"]==True)].shape[0]/ \
+     (ever[ever["commercial"]==True].shape[0])))
+
+
+    ever_com_sh=ever_sh[ever_sh["commercial"]==True]
+    print("\nEverest comm exp with sherpas")
+    print("Sherpas rate %.2f" % (sum(ever_com_sh["sherpas"])/sum(ever_com_sh["tot people"])))
+    print("Sherpas death rate %.2f" % (sum(ever_com_sh["sherpas died"])/sum(ever_com_sh["tot death"])))
+
+    pro=ever[(ever["commercial"]==False) & (ever["sherpas free"]==True)]
+    not_com=ever[ever["commercial"]==False]
+    not_com_sh=not_com[not_com["sherpas free"]==False]
+    print("\nPros death rate %.2f" % (sum(pro["tot death"])/sum(pro["tot people"])))
+    print("\nNot commercial sherpas rate %.2f" % (sum(not_com["sherpas"])/sum(not_com["tot people"])))
+    print("Not commercial sherpas death rate %.2f" % (sum(not_com["sherpas died"])/sum(not_com["tot death"])))
+    print("\nNot commercial with sherpas  rate %.2f" % (sum(not_com_sh["sherpas"])/sum(not_com_sh["tot people"])))
+    print("Not commercial with sherpas death rate %.2f" % (sum(not_com_sh["sherpas died"])/sum(not_com_sh["tot death"])))
+
+
+print_stats()
+ever
+
+pro=ever[(ever["commercial"]==False) & (ever["sherpas free"]==True)]
+not_com=ever[ever["commercial"]==False]
+not_com_sh=not_com[not_com["sherpas free"]==False]
+j=0
+for i in ll["route"]:
+    print(i)
+
+j
+
+ll=ever[(ever["standard route"]!="VERO") & (ever["standard route"]!="FALSO")]
+ll
+years=ever_sh["year"].unique()
+sh_died=[]
+tot_died=[]
 for year in years:
-    df_year=df_ever[df_ever["year"]==year]
-    tot.append( sum(df_year["members died"]+df_year["sherpas died"]))
-    cl.append(sum(df_year["members died"]))
-    sh.append(sum(df_year["sherpas died"]))
+    sh_died.append(sum(ever_sh[ever_sh["year"]==year]["sherpas died"]))
+    tot_died.append(sum(ever_sh[ever_sh["year"]==year]["tot death"]))
 
-plt.plot(years,tot,label="total")
-plt.plot(years,cl,label="climbers")
-plt.plot(years,sh,label="sherpas")
-plt.legend()
+plt.plot(years,tot_died,label="tot")
+plt.plot(years,sh_died)
+sum(ever_sh["sherpas died"])
 
-print(max(tot),years[np.argmax(tot)])
+sum(df["sherpas died"])
 
-df_victims=pd.DataFrame({"year":years, "tot":tot, "members":cl, "sherpas":sh})
-
-df_victims.sort_values("sherpas",ascending=False)
+ag=ever[ever["commercial"]==True]
+ag[ag["sherpas free"]==True].shape
 
 
 
-#sharpas commercial vs non
-df_com=df[df["commercial"]==True]
+#*******************************************
 
-sherp_com= sum(df_com["sherpas"])
-sherp_not_com= sherpas-sherp_com
-
-print(sherp_com,sherp_not_com)
-
-
-sherpas_com_died=sum(df_com["sherpas died"])
-sherpas_died_not_com=sherpas_died-sherpas_com_died
-
-print(sherpas_died, sherpas_com_died, sherpas_died_not_com)
+ever[(ever["standard route"]==True) & (ever["route"]!="S Col-SE Ridge")]
 
 
 
-# mortality rate over the years
-death_rate=[]
-df=df[df["tot people"]>0]
 
-for year in sorted(df["year"].unique()):
-    death_rate.append(sum(df[df["year"]==year]["tot death"])/sum(df[df["year"]==year]["tot people"]))
-
-
-plt.plot(sorted(df["year"].unique()),death_rate)
-plt.xticks(sorted(df["year"].unique()))
+sorted(ever["route"].unique().astype(str))
+ever[ever["route"].astype(str)=="nan"]

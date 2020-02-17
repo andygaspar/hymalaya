@@ -16,7 +16,7 @@ names=["unknown","suc 1","suc 2","suc 3","bad wather","bad conditions","accident
 cause=dict(zip(range(14),names))
 
 
-
+cause
 
 
 causes=[]
